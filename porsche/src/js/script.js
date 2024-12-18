@@ -43,7 +43,7 @@ rgbeLoader.load("./assets/MR_INT-005_WhiteNeons_NAD.hdr", function (texture) {
   texture.mapping = THREE.EquirectangularReflectionMapping;
   scene.environment = texture;
 
-  gltfLoader.load("./assets/scene.gltf", function (gltf) {
+  gltfLoader.load("./assets/car/scene.gltf", function (gltf) {
     const model = gltf.scene;
     scene.add(model);
     car = model;

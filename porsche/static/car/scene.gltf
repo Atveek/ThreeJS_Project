@@ -1,0 +1,8752 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1820,
+      "max": [
+        4.976508140563965,
+        0.9861512780189514,
+        0.2131510078907013
+      ],
+      "min": [
+        -4.976508140563965,
+        -0.9677556753158569,
+        -0.4260700047016144
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21840,
+      "componentType": 5126,
+      "count": 1820,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1820,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7194,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 43680,
+      "componentType": 5126,
+      "count": 417,
+      "max": [
+        1.2590575218200684,
+        1.082561731338501,
+        0.18847057223320007
+      ],
+      "min": [
+        -2.250223398208618,
+        -0.9827811121940613,
+        -0.5090717673301697
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 48684,
+      "componentType": 5126,
+      "count": 417,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14560,
+      "componentType": 5126,
+      "count": 417,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 28776,
+      "componentType": 5125,
+      "count": 1800,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 53688,
+      "componentType": 5126,
+      "count": 1016,
+      "max": [
+        6.1091132164001465,
+        0.7918046116828918,
+        1.8074754476547241
+      ],
+      "min": [
+        -6.109114646911621,
+        -0.3975830078125,
+        -1.8982235193252563
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 65880,
+      "componentType": 5126,
+      "count": 1016,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17896,
+      "componentType": 5126,
+      "count": 1016,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 35976,
+      "componentType": 5125,
+      "count": 3582,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 78072,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        9.115396499633789,
+        0.7957848310470581,
+        0.2104232758283615
+      ],
+      "min": [
+        -9.115396499633789,
+        -0.8290892839431763,
+        -0.19565923511981964
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 78840,
+      "componentType": 5126,
+      "count": 64,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26024,
+      "componentType": 5126,
+      "count": 64,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50304,
+      "componentType": 5125,
+      "count": 96,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 79608,
+      "componentType": 5126,
+      "count": 496,
+      "max": [
+        9.171856880187988,
+        3.6267027854919434,
+        2.339200973510742
+      ],
+      "min": [
+        -9.171854019165039,
+        -1.4513099193572998,
+        -1.2146828174591064
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 85560,
+      "componentType": 5126,
+      "count": 496,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26536,
+      "componentType": 5126,
+      "count": 496,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50688,
+      "componentType": 5125,
+      "count": 1392,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 91512,
+      "componentType": 5126,
+      "count": 1108,
+      "max": [
+        4.949978351593018,
+        1.7343060970306396,
+        0.41794446110725403
+      ],
+      "min": [
+        -4.949979305267334,
+        -2.776211977005005,
+        -0.22554486989974976
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 104808,
+      "componentType": 5126,
+      "count": 1108,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 30504,
+      "componentType": 5126,
+      "count": 1108,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 56256,
+      "componentType": 5125,
+      "count": 4194,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 118104,
+      "componentType": 5126,
+      "count": 112,
+      "max": [
+        80.07644653320313,
+        2.283782958984375,
+        1.9972200393676758
+      ],
+      "min": [
+        -80.0764389038086,
+        -3.873199462890625,
+        -2.0380353927612305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 119448,
+      "componentType": 5126,
+      "count": 112,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 39368,
+      "componentType": 5126,
+      "count": 112,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73032,
+      "componentType": 5125,
+      "count": 168,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 120792,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        77.99629974365234,
+        2.6109745502471924,
+        0.4265998899936676
+      ],
+      "min": [
+        -77.99629211425781,
+        -3.6342713832855225,
+        -0.4800315797328949
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 123864,
+      "componentType": 5126,
+      "count": 256,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 40264,
+      "componentType": 5126,
+      "count": 256,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73704,
+      "componentType": 5125,
+      "count": 384,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 126936,
+      "componentType": 5126,
+      "count": 1864,
+      "max": [
+        77.7768783569336,
+        1.9480665922164917,
+        3.3344223499298096
+      ],
+      "min": [
+        -77.77689361572266,
+        -1.5607271194458008,
+        -3.7421154975891113
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 149304,
+      "componentType": 5126,
+      "count": 1864,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 42312,
+      "componentType": 5126,
+      "count": 1864,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 75240,
+      "componentType": 5125,
+      "count": 3024,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 171672,
+      "componentType": 5126,
+      "count": 182,
+      "max": [
+        2.7503631114959717,
+        0.8362331986427307,
+        0.15517954528331757
+      ],
+      "min": [
+        -2.7503631114959717,
+        -0.9131551384925842,
+        -0.13757945597171783
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 173856,
+      "componentType": 5126,
+      "count": 182,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 57224,
+      "componentType": 5126,
+      "count": 182,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 87336,
+      "componentType": 5125,
+      "count": 774,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 176040,
+      "componentType": 5126,
+      "count": 224,
+      "max": [
+        83.87049865722656,
+        1.2002328634262085,
+        0.9331740140914917
+      ],
+      "min": [
+        -83.87049865722656,
+        -1.0764702558517456,
+        -1.0668262243270874
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 178728,
+      "componentType": 5126,
+      "count": 224,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58680,
+      "componentType": 5126,
+      "count": 224,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 90432,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 181416,
+      "componentType": 5126,
+      "count": 720,
+      "max": [
+        63.437477111816406,
+        9.816829681396484,
+        1.358940601348877
+      ],
+      "min": [
+        -63.4375114440918,
+        -13.614781379699707,
+        -1.374051570892334
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 190056,
+      "componentType": 5126,
+      "count": 720,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60472,
+      "componentType": 5126,
+      "count": 720,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 91776,
+      "componentType": 5125,
+      "count": 1512,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 198696,
+      "componentType": 5126,
+      "count": 272,
+      "max": [
+        0.7094652652740479,
+        1.9401330947875977,
+        0.09667690843343735
+      ],
+      "min": [
+        -0.7094652056694031,
+        -1.325636863708496,
+        -0.08398572355508804
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 201960,
+      "componentType": 5126,
+      "count": 272,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 66232,
+      "componentType": 5126,
+      "count": 272,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 97824,
+      "componentType": 5125,
+      "count": 792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 205224,
+      "componentType": 5126,
+      "count": 502,
+      "max": [
+        8.022467613220215,
+        3.2696547508239746,
+        0.7777751684188843
+      ],
+      "min": [
+        -8.022467613220215,
+        -2.281613349914551,
+        -0.3573566973209381
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 211248,
+      "componentType": 5126,
+      "count": 502,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 68408,
+      "componentType": 5126,
+      "count": 502,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 100992,
+      "componentType": 5125,
+      "count": 756,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 217272,
+      "componentType": 5126,
+      "count": 456,
+      "max": [
+        0.9707304835319519,
+        0.30115950107574463,
+        0.5706474184989929
+      ],
+      "min": [
+        -0.8159575462341309,
+        -0.28025758266448975,
+        -0.5706473588943481
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 222744,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 72424,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 104016,
+      "componentType": 5125,
+      "count": 684,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 228216,
+      "componentType": 5126,
+      "count": 488,
+      "max": [
+        4.751189708709717,
+        0.3698403537273407,
+        0.10735756903886795
+      ],
+      "min": [
+        -4.751190662384033,
+        -0.24239008128643036,
+        -0.19520938396453857
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 234072,
+      "componentType": 5126,
+      "count": 488,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 76072,
+      "componentType": 5126,
+      "count": 488,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 106752,
+      "componentType": 5125,
+      "count": 732,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 239928,
+      "componentType": 5126,
+      "count": 224,
+      "max": [
+        2.1077017784118652,
+        0.35836321115493774,
+        0.06335373222827911
+      ],
+      "min": [
+        -2.1077022552490234,
+        -0.37952154874801636,
+        -0.07059745490550995
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 242616,
+      "componentType": 5126,
+      "count": 224,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 79976,
+      "componentType": 5126,
+      "count": 224,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 109680,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 245304,
+      "componentType": 5126,
+      "count": 23,
+      "max": [
+        0.8747915029525757,
+        0.5038687586784363,
+        0.15075922012329102
+      ],
+      "min": [
+        -0.5386158227920532,
+        -0.727596640586853,
+        -0.08466248959302902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 245580,
+      "componentType": 5126,
+      "count": 23,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 81768,
+      "componentType": 5126,
+      "count": 23,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 111024,
+      "componentType": 5125,
+      "count": 63,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 245856,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        135.5496368408203,
+        1.1926320791244507,
+        0.9173002243041992
+      ],
+      "min": [
+        -135.54962158203125,
+        -1.1840710639953613,
+        -0.8573705554008484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 246432,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 81952,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 111276,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 247008,
+      "componentType": 5126,
+      "count": 528,
+      "max": [
+        213.36659240722656,
+        17.371545791625977,
+        5.824811935424805
+      ],
+      "min": [
+        -213.3666229248047,
+        -18.382474899291992,
+        -3.8933603763580322
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 253344,
+      "componentType": 5126,
+      "count": 528,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 82336,
+      "componentType": 5126,
+      "count": 528,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 111564,
+      "componentType": 5125,
+      "count": 804,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 259680,
+      "componentType": 5126,
+      "count": 656,
+      "max": [
+        79.08088684082031,
+        1.2964082956314087,
+        2.1139910221099854
+      ],
+      "min": [
+        -79.08086395263672,
+        -1.218076229095459,
+        -2.2233502864837646
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 267552,
+      "componentType": 5126,
+      "count": 656,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 86560,
+      "componentType": 5126,
+      "count": 656,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 114780,
+      "componentType": 5125,
+      "count": 984,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 275424,
+      "componentType": 5126,
+      "count": 2313,
+      "max": [
+        28.673913955688477,
+        1.9059406518936157,
+        8.739830017089844
+      ],
+      "min": [
+        -28.673925399780273,
+        -2.3751795291900635,
+        -10.648033142089844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 303180,
+      "componentType": 5126,
+      "count": 2313,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 91808,
+      "componentType": 5126,
+      "count": 2313,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 118716,
+      "componentType": 5125,
+      "count": 3516,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 330936,
+      "componentType": 5126,
+      "count": 260,
+      "max": [
+        29.44064712524414,
+        1.5711009502410889,
+        2.967379331588745
+      ],
+      "min": [
+        -29.44064712524414,
+        -1.6019999980926514,
+        -2.1835949420928955
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 334056,
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 110312,
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 132780,
+      "componentType": 5125,
+      "count": 432,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 337176,
+      "componentType": 5126,
+      "count": 536,
+      "max": [
+        30.543001174926758,
+        2.000711679458618,
+        0.3273236155509949
+      ],
+      "min": [
+        -30.543014526367188,
+        -1.847031831741333,
+        -0.25440627336502075
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 343608,
+      "componentType": 5126,
+      "count": 536,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 112392,
+      "componentType": 5126,
+      "count": 536,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 134508,
+      "componentType": 5125,
+      "count": 804,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 350040,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        4.686844348907471,
+        0.13650758564472198,
+        0.09129096567630768
+      ],
+      "min": [
+        -4.6868438720703125,
+        -0.1085013598203659,
+        -0.08065114915370941
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 351240,
+      "componentType": 5126,
+      "count": 100,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 116680,
+      "componentType": 5126,
+      "count": 100,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 137724,
+      "componentType": 5125,
+      "count": 420,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 352440,
+      "componentType": 5126,
+      "count": 1910,
+      "max": [
+        52.46937561035156,
+        1.862615704536438,
+        2.6755781173706055
+      ],
+      "min": [
+        -52.46940231323242,
+        -4.381341934204102,
+        -6.078566551208496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 375360,
+      "componentType": 5126,
+      "count": 1910,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 117480,
+      "componentType": 5126,
+      "count": 1910,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 139404,
+      "componentType": 5125,
+      "count": 2946,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 398280,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        51.9676513671875,
+        1.2140560150146484,
+        2.57346248626709
+      ],
+      "min": [
+        -51.967681884765625,
+        0.02735319174826145,
+        2.343390464782715
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 399048,
+      "componentType": 5126,
+      "count": 64,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 132760,
+      "componentType": 5126,
+      "count": 64,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 151188,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 399816,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        1.0461894273757935,
+        1.428598403930664,
+        3.2906439304351807
+      ],
+      "min": [
+        -0.805016279220581,
+        -0.7718023061752319,
+        -3.290644645690918
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 401112,
+      "componentType": 5126,
+      "count": 108,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 133272,
+      "componentType": 5126,
+      "count": 108,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 151908,
+      "componentType": 5125,
+      "count": 300,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 402408,
+      "componentType": 5126,
+      "count": 300,
+      "max": [
+        2.8411943912506104,
+        0.7880591154098511,
+        0.18782977759838104
+      ],
+      "min": [
+        -2.8411941528320313,
+        -1.100745439529419,
+        -0.1674611121416092
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 406008,
+      "componentType": 5126,
+      "count": 300,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 134136,
+      "componentType": 5126,
+      "count": 300,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 153108,
+      "componentType": 5125,
+      "count": 900,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 409608,
+      "componentType": 5126,
+      "count": 274,
+      "max": [
+        1.090294599533081,
+        0.4622952938079834,
+        0.5706473588943481
+      ],
+      "min": [
+        -0.6963934302330017,
+        -1.7906211614608765,
+        -0.5706472992897034
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 412896,
+      "componentType": 5126,
+      "count": 274,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 136536,
+      "componentType": 5126,
+      "count": 274,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 156708,
+      "componentType": 5125,
+      "count": 804,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 416184,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        6.733353137969971,
+        5.841338634490967,
+        0.8027556538581848
+      ],
+      "min": [
+        -6.733354091644287,
+        -12.123468399047852,
+        -1.29866361618042
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 419256,
+      "componentType": 5126,
+      "count": 256,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 138728,
+      "componentType": 5126,
+      "count": 256,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 159924,
+      "componentType": 5125,
+      "count": 384,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 422328,
+      "componentType": 5126,
+      "count": 304,
+      "max": [
+        24.067506790161133,
+        2.639511823654175,
+        0.8986866474151611
+      ],
+      "min": [
+        -24.067508697509766,
+        -4.318908214569092,
+        -0.6525638103485107
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 425976,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 140776,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 161460,
+      "componentType": 5125,
+      "count": 456,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 429624,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        23.614381790161133,
+        2.1621787548065186,
+        0.544806718826294
+      ],
+      "min": [
+        -23.614383697509766,
+        0.6647803783416748,
+        -0.5464866161346436
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 429816,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 143208,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163284,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 430008,
+      "componentType": 5126,
+      "count": 720,
+      "max": [
+        73.6024169921875,
+        7.419487953186035,
+        2.1868066787719727
+      ],
+      "min": [
+        -73.60238647460938,
+        -7.60471248626709,
+        -2.213576316833496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 438648,
+      "componentType": 5126,
+      "count": 720,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 143336,
+      "componentType": 5126,
+      "count": 720,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 163380,
+      "componentType": 5125,
+      "count": 1080,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 447288,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        9.547444343566895,
+        0.8532870411872864,
+        0.18457652628421783
+      ],
+      "min": [
+        -9.547444343566895,
+        -0.3757798373699188,
+        -0.2087073177099228
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 447864,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 149096,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 167700,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 448440,
+      "componentType": 5126,
+      "count": 598,
+      "max": [
+        4.013421058654785,
+        0.529086172580719,
+        1.4556719064712524
+      ],
+      "min": [
+        -4.013421535491943,
+        -0.2962815761566162,
+        -1.543669581413269
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 455616,
+      "componentType": 5126,
+      "count": 598,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 149480,
+      "componentType": 5126,
+      "count": 598,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 167988,
+      "componentType": 5125,
+      "count": 906,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 462792,
+      "componentType": 5126,
+      "count": 1594,
+      "max": [
+        4.981744766235352,
+        2.3526298999786377,
+        0.6830247044563293
+      ],
+      "min": [
+        -4.981747627258301,
+        -2.519557476043701,
+        -0.4257398247718811
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 481920,
+      "componentType": 5126,
+      "count": 1594,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 154264,
+      "componentType": 5126,
+      "count": 1594,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 171612,
+      "componentType": 5125,
+      "count": 4218,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 501048,
+      "componentType": 5126,
+      "count": 288,
+      "max": [
+        0.6260318160057068,
+        0.030232124030590057,
+        0.34682923555374146
+      ],
+      "min": [
+        -0.36326199769973755,
+        -0.03715641051530838,
+        -0.34682923555374146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 504504,
+      "componentType": 5126,
+      "count": 288,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 167016,
+      "componentType": 5126,
+      "count": 288,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 188484,
+      "componentType": 5125,
+      "count": 432,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 507960,
+      "componentType": 5126,
+      "count": 376,
+      "max": [
+        0.04917716979980469,
+        1.003491759300232,
+        0.0552033856511116
+      ],
+      "min": [
+        -0.04916355013847351,
+        -1.3499971628189087,
+        -0.03588699549436569
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 512472,
+      "componentType": 5126,
+      "count": 376,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 169320,
+      "componentType": 5126,
+      "count": 376,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 190212,
+      "componentType": 5125,
+      "count": 564,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 516984,
+      "componentType": 5126,
+      "count": 204,
+      "max": [
+        1.0493412017822266,
+        0.16876335442066193,
+        0.05091289430856705
+      ],
+      "min": [
+        -1.0493412017822266,
+        -0.0795401781797409,
+        -0.03251798823475838
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 519432,
+      "componentType": 5126,
+      "count": 204,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 172328,
+      "componentType": 5126,
+      "count": 204,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 192468,
+      "componentType": 5125,
+      "count": 300,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 521880,
+      "componentType": 5126,
+      "count": 97,
+      "max": [
+        1.1437556743621826,
+        0.18964475393295288,
+        0.23955853283405304
+      ],
+      "min": [
+        -1.0123662948608398,
+        -0.2527204155921936,
+        -0.20947714149951935
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 523044,
+      "componentType": 5126,
+      "count": 97,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 173960,
+      "componentType": 5126,
+      "count": 97,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 193668,
+      "componentType": 5125,
+      "count": 270,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 524208,
+      "componentType": 5126,
+      "count": 91,
+      "max": [
+        1.051417350769043,
+        0.1976732462644577,
+        0.2558247148990631
+      ],
+      "min": [
+        -1.1047046184539795,
+        -0.24469192326068878,
+        -0.19321094453334808
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 525300,
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 174736,
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 194748,
+      "componentType": 5125,
+      "count": 252,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 526392,
+      "componentType": 5126,
+      "count": 418,
+      "max": [
+        1.8039451837539673,
+        0.6557515263557434,
+        0.16414445638656616
+      ],
+      "min": [
+        -1.8039451837539673,
+        -0.544981837272644,
+        -0.19603286683559418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 531408,
+      "componentType": 5126,
+      "count": 418,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 175464,
+      "componentType": 5126,
+      "count": 418,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 195756,
+      "componentType": 5125,
+      "count": 1830,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 536424,
+      "componentType": 5126,
+      "count": 56,
+      "max": [
+        0.5392204523086548,
+        0.04526853561401367,
+        0.04848465323448181
+      ],
+      "min": [
+        -0.5392203330993652,
+        -0.04654735326766968,
+        -0.04873909056186676
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 537096,
+      "componentType": 5126,
+      "count": 56,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 178808,
+      "componentType": 5126,
+      "count": 56,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 203076,
+      "componentType": 5125,
+      "count": 132,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 537768,
+      "componentType": 5126,
+      "count": 594,
+      "max": [
+        1.6767382621765137,
+        0.09354513883590698,
+        0.22858700156211853
+      ],
+      "min": [
+        -1.6767381429672241,
+        -0.598032534122467,
+        -0.21730594336986542
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 544896,
+      "componentType": 5126,
+      "count": 594,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 179256,
+      "componentType": 5126,
+      "count": 594,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 203604,
+      "componentType": 5125,
+      "count": 1896,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 552024,
+      "componentType": 5126,
+      "count": 23,
+      "max": [
+        0.5386162996292114,
+        0.5038687586784363,
+        0.15075922012329102
+      ],
+      "min": [
+        -0.874791145324707,
+        -0.7275965809822083,
+        -0.08466248959302902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 552300,
+      "componentType": 5126,
+      "count": 23,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 184008,
+      "componentType": 5126,
+      "count": 23,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 211188,
+      "componentType": 5125,
+      "count": 63,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 552576,
+      "componentType": 5126,
+      "count": 94,
+      "max": [
+        0.8600580096244812,
+        0.44377249479293823,
+        0.04072374105453491
+      ],
+      "min": [
+        -0.8600580096244812,
+        -0.5936837196350098,
+        -0.09345082938671112
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 553704,
+      "componentType": 5126,
+      "count": 94,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 184192,
+      "componentType": 5126,
+      "count": 94,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 211440,
+      "componentType": 5125,
+      "count": 138,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 554832,
+      "componentType": 5126,
+      "count": 31,
+      "max": [
+        0.630351185798645,
+        0.4138447642326355,
+        0.0699044018983841
+      ],
+      "min": [
+        -0.8631325364112854,
+        -0.6167449951171875,
+        -0.0887095034122467
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 555204,
+      "componentType": 5126,
+      "count": 31,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 184944,
+      "componentType": 5126,
+      "count": 31,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 211992,
+      "componentType": 5125,
+      "count": 117,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 555576,
+      "componentType": 5126,
+      "count": 31,
+      "max": [
+        0.8631325364112854,
+        0.4138447642326355,
+        0.0699044018983841
+      ],
+      "min": [
+        -0.6303509473800659,
+        -0.6167449951171875,
+        -0.0887095034122467
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 555948,
+      "componentType": 5126,
+      "count": 31,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 185192,
+      "componentType": 5126,
+      "count": 31,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 212460,
+      "componentType": 5125,
+      "count": 117,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 556320,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        1.476279616355896,
+        0.3987387418746948,
+        0.09586003422737122
+      ],
+      "min": [
+        -0.9066519141197205,
+        -0.411429226398468,
+        -0.08210870623588562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 556944,
+      "componentType": 5126,
+      "count": 52,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 185440,
+      "componentType": 5126,
+      "count": 52,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 212928,
+      "componentType": 5125,
+      "count": 120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 557568,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.8968861699104309,
+        0.40794944763183594,
+        0.09516449272632599
+      ],
+      "min": [
+        -1.4860455989837646,
+        -0.4022185206413269,
+        -0.08280424773693085
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 558048,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 185856,
+      "componentType": 5126,
+      "count": 40,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 213408,
+      "componentType": 5125,
+      "count": 120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 558528,
+      "componentType": 5126,
+      "count": 37,
+      "max": [
+        1.2355140447616577,
+        0.20239029824733734,
+        0.04132809862494469
+      ],
+      "min": [
+        -1.2355132102966309,
+        -0.12189499288797379,
+        -0.0656951367855072
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 558972,
+      "componentType": 5126,
+      "count": 37,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 186176,
+      "componentType": 5126,
+      "count": 37,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 213888,
+      "componentType": 5125,
+      "count": 144,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 559416,
+      "componentType": 5126,
+      "count": 9,
+      "max": [
+        0.582974910736084,
+        0.05159282684326172,
+        0.03866821527481079
+      ],
+      "min": [
+        -0.4846029281616211,
+        -0.06117677688598633,
+        -0.04798293113708496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 559524,
+      "componentType": 5126,
+      "count": 9,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 186472,
+      "componentType": 5126,
+      "count": 9,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 214464,
+      "componentType": 5125,
+      "count": 15,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 559632,
+      "componentType": 5126,
+      "count": 432,
+      "max": [
+        2.2492661476135254,
+        1.0635179281234741,
+        0.1881691813468933
+      ],
+      "min": [
+        -1.2600147724151611,
+        -1.0018248558044434,
+        -0.5093731880187988
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 564816,
+      "componentType": 5126,
+      "count": 432,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 186544,
+      "componentType": 5126,
+      "count": 432,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 214524,
+      "componentType": 5125,
+      "count": 1833,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 570000,
+      "componentType": 5126,
+      "count": 97,
+      "max": [
+        0.9404809474945068,
+        0.5073062777519226,
+        0.1126568540930748
+      ],
+      "min": [
+        -1.0023632049560547,
+        -0.6980673670768738,
+        -0.10663823038339615
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 571164,
+      "componentType": 5126,
+      "count": 97,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 190000,
+      "componentType": 5126,
+      "count": 97,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 221856,
+      "componentType": 5125,
+      "count": 408,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 572328,
+      "componentType": 5126,
+      "count": 10,
+      "max": [
+        0.5094954967498779,
+        0.4881274700164795,
+        0.02604527398943901
+      ],
+      "min": [
+        -0.48973751068115234,
+        -0.48125016689300537,
+        -0.025828532874584198
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 572448,
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 190776,
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 223488,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 572568,
+      "componentType": 5126,
+      "count": 97,
+      "max": [
+        1.002364158630371,
+        0.5073062777519226,
+        0.1126568540930748
+      ],
+      "min": [
+        -0.9404785633087158,
+        -0.6980673670768738,
+        -0.10663823038339615
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 573732,
+      "componentType": 5126,
+      "count": 97,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 190856,
+      "componentType": 5126,
+      "count": 97,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 223584,
+      "componentType": 5125,
+      "count": 408,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 574896,
+      "componentType": 5126,
+      "count": 10,
+      "max": [
+        0.48973751068115234,
+        0.4881274700164795,
+        0.02604527398943901
+      ],
+      "min": [
+        -0.5094950199127197,
+        -0.48125016689300537,
+        -0.025828532874584198
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 575016,
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 191632,
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 225216,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 575136,
+      "componentType": 5126,
+      "count": 276,
+      "max": [
+        4.703021049499512,
+        0.10199213027954102,
+        0.0849921703338623
+      ],
+      "min": [
+        -4.703019142150879,
+        -0.2816472053527832,
+        -0.09215325117111206
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 578448,
+      "componentType": 5126,
+      "count": 276,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 191712,
+      "componentType": 5126,
+      "count": 276,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 225312,
+      "componentType": 5125,
+      "count": 1092,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 581760,
+      "componentType": 5126,
+      "count": 388,
+      "max": [
+        0.9999992847442627,
+        1.0000011920928955,
+        0.992159366607666
+      ],
+      "min": [
+        -1.0000007152557373,
+        -0.9999985694885254,
+        -1.004730224609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 586416,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 193920,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 229680,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 591072,
+      "componentType": 5126,
+      "count": 1504,
+      "max": [
+        0.9197654724121094,
+        0.47219371795654297,
+        1.3196136951446533
+      ],
+      "min": [
+        -0.8623523712158203,
+        -0.4050416946411133,
+        -1.286651372909546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 609120,
+      "componentType": 5126,
+      "count": 1504,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 197024,
+      "componentType": 5126,
+      "count": 1504,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 235056,
+      "componentType": 5125,
+      "count": 2358,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 627168,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.1680231094360352,
+        1.1680240631103516,
+        1.0000190734863281
+      ],
+      "min": [
+        -1.1680254936218262,
+        -1.1680240631103516,
+        -0.9999809265136719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 629472,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 209056,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 244488,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 631776,
+      "componentType": 5126,
+      "count": 640,
+      "max": [
+        0.7824335098266602,
+        0.7824337482452393,
+        1.0143437385559082
+      ],
+      "min": [
+        -0.7824325561523438,
+        -0.7824320793151855,
+        -1.0143179893493652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 639456,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 210592,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 245976,
+      "componentType": 5125,
+      "count": 1920,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 647136,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999985694885254,
+        1.0000057220458984,
+        1.0
+      ],
+      "min": [
+        -1.0000014305114746,
+        -0.9999942779541016,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 649440,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 215712,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 253656,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 651744,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999995231628418,
+        1.0000057220458984,
+        0.9999237060546875
+      ],
+      "min": [
+        -1.0000004768371582,
+        -0.9999942779541016,
+        -1.0000762939453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 654048,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 217248,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 255144,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 656352,
+      "componentType": 5126,
+      "count": 912,
+      "max": [
+        1.2185630798339844,
+        1.2185821533203125,
+        5.6389312744140625
+      ],
+      "min": [
+        -1.2185611724853516,
+        -1.2185420989990234,
+        -2.0467529296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 667296,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 218784,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 256632,
+      "componentType": 5125,
+      "count": 1434,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 678240,
+      "componentType": 5126,
+      "count": 544,
+      "max": [
+        1.0000009536743164,
+        1.0000190734863281,
+        -2.0467529296875
+      ],
+      "min": [
+        -0.9999990463256836,
+        -0.9999809265136719,
+        -4.28033447265625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 684768,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 226080,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 262368,
+      "componentType": 5125,
+      "count": 858,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 691296,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999996423721313,
+        1.0000004768371582,
+        0.4934539794921875
+      ],
+      "min": [
+        -1.0000004768371582,
+        -0.9999995231628418,
+        -0.4934883117675781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 693600,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 230432,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 265800,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 695904,
+      "componentType": 5126,
+      "count": 864,
+      "max": [
+        1.060837984085083,
+        1.0608348846435547,
+        1.2813796997070313
+      ],
+      "min": [
+        -1.0608370304107666,
+        -1.0608406066894531,
+        -1.3642730712890625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 706272,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 231968,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 267288,
+      "componentType": 5125,
+      "count": 1332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 716640,
+      "componentType": 5126,
+      "count": 737,
+      "max": [
+        2.1729276180267334,
+        2.225155830383301,
+        0.3018217086791992
+      ],
+      "min": [
+        -2.19809627532959,
+        -2.2215614318847656,
+        -0.3358039855957031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 725484,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 238880,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 272616,
+      "componentType": 5125,
+      "count": 2184,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 734328,
+      "componentType": 5126,
+      "count": 388,
+      "max": [
+        1.000000238418579,
+        1.0000009536743164,
+        0.9921646118164063
+      ],
+      "min": [
+        -0.9999998211860657,
+        -0.9999990463256836,
+        -1.004725456237793
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 738984,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 244776,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 281352,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 743640,
+      "componentType": 5126,
+      "count": 1508,
+      "max": [
+        0.9197273254394531,
+        0.47219085693359375,
+        1.3196117877960205
+      ],
+      "min": [
+        -0.8623905181884766,
+        -0.4050445556640625,
+        -1.2866532802581787
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 761736,
+      "componentType": 5126,
+      "count": 1508,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 247880,
+      "componentType": 5126,
+      "count": 1508,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 286728,
+      "componentType": 5125,
+      "count": 2358,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 779832,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.1680254936218262,
+        1.1680240631103516,
+        1.0000114440917969
+      ],
+      "min": [
+        -1.1680231094360352,
+        -1.1680240631103516,
+        -0.9999885559082031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 782136,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 259944,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 296160,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 784440,
+      "componentType": 5126,
+      "count": 640,
+      "max": [
+        0.782432496547699,
+        0.7824323177337646,
+        1.014327049255371
+      ],
+      "min": [
+        -0.7824335098266602,
+        -0.7824337482452393,
+        -1.0143356323242188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 792120,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 261480,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 297648,
+      "componentType": 5125,
+      "count": 1920,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 799800,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999990463256836,
+        1.0000057220458984,
+        1.00006103515625
+      ],
+      "min": [
+        -1.0000009536743164,
+        -0.9999942779541016,
+        -0.99993896484375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 802104,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 266600,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 305328,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 804408,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.0,
+        0.9999980926513672,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0000019073486328,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 806712,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 268136,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 306816,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 809016,
+      "componentType": 5126,
+      "count": 912,
+      "max": [
+        1.2185640335083008,
+        1.2185554504394531,
+        5.639312744140625
+      ],
+      "min": [
+        -1.2185602188110352,
+        -1.21856689453125,
+        -2.0463714599609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 819960,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 269672,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 308304,
+      "componentType": 5125,
+      "count": 1434,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 830904,
+      "componentType": 5126,
+      "count": 544,
+      "max": [
+        1.0000019073486328,
+        0.9999961853027344,
+        -2.0463714599609375
+      ],
+      "min": [
+        -0.9999980926513672,
+        -1.0000057220458984,
+        -4.2799530029296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 837432,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 276968,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 314040,
+      "componentType": 5125,
+      "count": 858,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 843960,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999998807907104,
+        1.0000009536743164,
+        0.49346160888671875
+      ],
+      "min": [
+        -1.0,
+        -0.9999990463256836,
+        -0.4934806823730469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 846264,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 281320,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 317472,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 848568,
+      "componentType": 5126,
+      "count": 864,
+      "max": [
+        1.0608367919921875,
+        1.060837745666504,
+        1.2812461853027344
+      ],
+      "min": [
+        -1.060838222503662,
+        -1.060837745666504,
+        -1.3644027709960938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 858936,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 282856,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 318960,
+      "componentType": 5125,
+      "count": 1332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 869304,
+      "componentType": 5126,
+      "count": 737,
+      "max": [
+        2.17292857170105,
+        2.2251548767089844,
+        0.3018302917480469
+      ],
+      "min": [
+        -2.1980953216552734,
+        -2.2215633392333984,
+        -0.33579492568969727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 878148,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 289768,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 324288,
+      "componentType": 5125,
+      "count": 2184,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 886992,
+      "componentType": 5126,
+      "count": 388,
+      "max": [
+        0.9999992847442627,
+        1.0000011920928955,
+        0.992159366607666
+      ],
+      "min": [
+        -1.0000007152557373,
+        -0.9999985694885254,
+        -1.004730224609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 891648,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 295664,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 333024,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 896304,
+      "componentType": 5126,
+      "count": 1504,
+      "max": [
+        0.9197654724121094,
+        0.47219371795654297,
+        1.3196136951446533
+      ],
+      "min": [
+        -0.8623523712158203,
+        -0.4050416946411133,
+        -1.286651372909546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 914352,
+      "componentType": 5126,
+      "count": 1504,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 298768,
+      "componentType": 5126,
+      "count": 1504,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 338400,
+      "componentType": 5125,
+      "count": 2358,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 932400,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.1680231094360352,
+        1.1680240631103516,
+        1.0000190734863281
+      ],
+      "min": [
+        -1.1680254936218262,
+        -1.1680240631103516,
+        -0.9999809265136719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 934704,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 310800,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 347832,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 937008,
+      "componentType": 5126,
+      "count": 640,
+      "max": [
+        0.7824335098266602,
+        0.7824337482452393,
+        1.0143437385559082
+      ],
+      "min": [
+        -0.7824325561523438,
+        -0.7824320793151855,
+        -1.0143179893493652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 944688,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 312336,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 349320,
+      "componentType": 5125,
+      "count": 1920,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 952368,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999985694885254,
+        1.0000057220458984,
+        1.0
+      ],
+      "min": [
+        -1.0000014305114746,
+        -0.9999942779541016,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 954672,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 317456,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 357000,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 956976,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999995231628418,
+        1.0000057220458984,
+        0.9999237060546875
+      ],
+      "min": [
+        -1.0000004768371582,
+        -0.9999942779541016,
+        -1.0000762939453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 959280,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 318992,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 358488,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 961584,
+      "componentType": 5126,
+      "count": 912,
+      "max": [
+        1.2185630798339844,
+        1.2185821533203125,
+        5.6389312744140625
+      ],
+      "min": [
+        -1.2185611724853516,
+        -1.2185420989990234,
+        -2.0467529296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 972528,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 320528,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 359976,
+      "componentType": 5125,
+      "count": 1434,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 983472,
+      "componentType": 5126,
+      "count": 544,
+      "max": [
+        1.0000009536743164,
+        1.0000190734863281,
+        -2.0467529296875
+      ],
+      "min": [
+        -0.9999990463256836,
+        -0.9999809265136719,
+        -4.28033447265625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 990000,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 327824,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 365712,
+      "componentType": 5125,
+      "count": 858,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 996528,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999996423721313,
+        1.0000004768371582,
+        0.4934539794921875
+      ],
+      "min": [
+        -1.0000004768371582,
+        -0.9999995231628418,
+        -0.4934883117675781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 998832,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 332176,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 369144,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1001136,
+      "componentType": 5126,
+      "count": 864,
+      "max": [
+        1.060837984085083,
+        1.0608348846435547,
+        1.2813796997070313
+      ],
+      "min": [
+        -1.0608370304107666,
+        -1.0608406066894531,
+        -1.3642730712890625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1011504,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 333712,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 370632,
+      "componentType": 5125,
+      "count": 1332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1021872,
+      "componentType": 5126,
+      "count": 737,
+      "max": [
+        2.1729276180267334,
+        2.225155830383301,
+        0.3018217086791992
+      ],
+      "min": [
+        -2.19809627532959,
+        -2.2215614318847656,
+        -0.3358039855957031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1030716,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 340624,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 375960,
+      "componentType": 5125,
+      "count": 2184,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1039560,
+      "componentType": 5126,
+      "count": 388,
+      "max": [
+        1.000000238418579,
+        1.0000009536743164,
+        0.9921646118164063
+      ],
+      "min": [
+        -0.9999998211860657,
+        -0.9999990463256836,
+        -1.004725456237793
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1044216,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 346520,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 384696,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1048872,
+      "componentType": 5126,
+      "count": 1508,
+      "max": [
+        0.9197273254394531,
+        0.47219085693359375,
+        1.3196117877960205
+      ],
+      "min": [
+        -0.8623905181884766,
+        -0.4050445556640625,
+        -1.2866532802581787
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1066968,
+      "componentType": 5126,
+      "count": 1508,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 349624,
+      "componentType": 5126,
+      "count": 1508,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 390072,
+      "componentType": 5125,
+      "count": 2358,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1085064,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.1680254936218262,
+        1.1680240631103516,
+        1.0000114440917969
+      ],
+      "min": [
+        -1.1680231094360352,
+        -1.1680240631103516,
+        -0.9999885559082031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1087368,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 361688,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 399504,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1089672,
+      "componentType": 5126,
+      "count": 640,
+      "max": [
+        0.782432496547699,
+        0.7824323177337646,
+        1.014327049255371
+      ],
+      "min": [
+        -0.7824335098266602,
+        -0.7824337482452393,
+        -1.0143356323242188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1097352,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 363224,
+      "componentType": 5126,
+      "count": 640,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 400992,
+      "componentType": 5125,
+      "count": 1920,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1105032,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999990463256836,
+        1.0000057220458984,
+        1.00006103515625
+      ],
+      "min": [
+        -1.0000009536743164,
+        -0.9999942779541016,
+        -0.99993896484375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1107336,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 368344,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 408672,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1109640,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.0,
+        0.9999980926513672,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0000019073486328,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1111944,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 369880,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 410160,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1114248,
+      "componentType": 5126,
+      "count": 912,
+      "max": [
+        1.2185640335083008,
+        1.2185554504394531,
+        5.639312744140625
+      ],
+      "min": [
+        -1.2185602188110352,
+        -1.21856689453125,
+        -2.0463714599609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1125192,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 371416,
+      "componentType": 5126,
+      "count": 912,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 411648,
+      "componentType": 5125,
+      "count": 1434,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1136136,
+      "componentType": 5126,
+      "count": 544,
+      "max": [
+        1.0000019073486328,
+        0.9999961853027344,
+        -2.0463714599609375
+      ],
+      "min": [
+        -0.9999980926513672,
+        -1.0000057220458984,
+        -4.2799530029296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1142664,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 378712,
+      "componentType": 5126,
+      "count": 544,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 417384,
+      "componentType": 5125,
+      "count": 858,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1149192,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.9999998807907104,
+        1.0000009536743164,
+        0.49346160888671875
+      ],
+      "min": [
+        -1.0,
+        -0.9999990463256836,
+        -0.4934806823730469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1151496,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 383064,
+      "componentType": 5126,
+      "count": 192,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 420816,
+      "componentType": 5125,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1153800,
+      "componentType": 5126,
+      "count": 864,
+      "max": [
+        1.0608367919921875,
+        1.060837745666504,
+        1.2812461853027344
+      ],
+      "min": [
+        -1.060838222503662,
+        -1.060837745666504,
+        -1.3644027709960938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1164168,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 384600,
+      "componentType": 5126,
+      "count": 864,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 422304,
+      "componentType": 5125,
+      "count": 1332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1174536,
+      "componentType": 5126,
+      "count": 737,
+      "max": [
+        2.17292857170105,
+        2.2251548767089844,
+        0.3018302917480469
+      ],
+      "min": [
+        -2.1980953216552734,
+        -2.2215633392333984,
+        -0.33579492568969727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1183380,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 391512,
+      "componentType": 5126,
+      "count": 737,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 427632,
+      "componentType": 5125,
+      "count": 2184,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "fab-model-conversion",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 436368,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 397408,
+      "byteOffset": 436368,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1192224,
+      "byteOffset": 833776,
+      "byteStride": 12,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2026000,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Plane.103__0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0
+        }
+      },
+      "name": "AstonMartinValkyrieMainBody",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.02715746411083641,
+          0.11922234576122083,
+          1.0
+        ],
+        "metallicFactor": 0.05202256080053271,
+        "roughnessFactor": 0.24751284432253454
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 1
+        }
+      },
+      "name": "AstonMartinValkyrieThirdMain",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.000730089963712116,
+          0.000730089963712116,
+          0.000730089963712116,
+          1.0
+        ],
+        "roughnessFactor": 0.6241966571161518
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieFronLights2",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.683772233983162
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieFrontLights3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800638,
+          0.228122,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.926041166910314
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.05202256080053271
+        }
+      },
+      "name": "AstonMartinValkyrieWindows",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.9744923361699788,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieBack1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.193599,
+          0.193599,
+          0.193599,
+          1.0
+        ],
+        "roughnessFactor": 0.047790927396578385
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0
+        }
+      },
+      "name": "AstonMartinValkyrieLightsCover",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.026956277376276035,
+          0.026956277376276035,
+          0.026956277376276035,
+          0.0398044180804076
+        ]
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.02758627536028248
+        }
+      },
+      "name": "AstonMartinValkyrie1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.004055071769443416,
+          0.004055071769443416,
+          0.004055071769443416,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.32693077200334775
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0
+        }
+      },
+      "name": "AstonMartinValkyrieSecondMain",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.06194684968116327,
+          0.27194912976278474,
+          1.0
+        ]
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.07034977488072038
+        }
+      },
+      "name": "AstonMartinValkyrie2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0103779,
+          0.0103779,
+          0.0103779,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9976794310136305
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieFrontLights",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8674620295437017
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrie6",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieBackLights",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8002589999999997,
+          0.0,
+          0.004574130000000025,
+          1.0
+        ]
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieFrontLightsInside",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.002428485969753988,
+          0.0027664401314824883,
+          0.0025106035819776286,
+          1.0
+        ],
+        "roughnessFactor": 0.9884973261149426
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.009259061280094813
+        }
+      },
+      "name": "AstonMartinValkyrieTires",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.6934750536071012
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieBrakes",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "roughnessFactor": 0.39205194543377464
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 1
+        }
+      },
+      "name": "AstonMartinValkyrieWheel1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.003149989920032256,
+          0.003149989920032256,
+          0.003149989920032256,
+          1.0
+        ],
+        "roughnessFactor": 0.31471262928322263
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 1
+        }
+      },
+      "name": "AstonMartinValkyrieWheel2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.399439,
+          0.399439,
+          0.399439,
+          1.0
+        ],
+        "roughnessFactor": 0.3880214856039733
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "AstonMartinValkyrieWheel3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0022126326506759835,
+          0.0022126326506759835,
+          0.0022126326506759835,
+          1.0
+        ],
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 1
+        }
+      },
+      "name": "AstonMartinValkyrieWheel5",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0019668253262911,
+          0.0019668253262911,
+          0.0019668253262911,
+          1.0
+        ]
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.021477204000219925
+        }
+      },
+      "name": "AstonMartinValkyrieWheel4",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8347890119096191
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Body_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.003_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.008_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.009_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.010_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.011_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.007_AstonMartinValkyrieFronLights2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.012_AstonMartinValkyrieFronLights2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder_AstonMartinValkyrieFrontLights3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 33,
+            "POSITION": 32,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.047_AstonMartinValkyrieWindows_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.009_AstonMartinValkyrieBack1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.038_AstonMartinValkyrieLightsCover_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 45,
+            "POSITION": 44,
+            "TEXCOORD_0": 46
+          },
+          "indices": 47,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.027_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 49,
+            "POSITION": 48,
+            "TEXCOORD_0": 50
+          },
+          "indices": 51,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.028_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 53,
+            "POSITION": 52,
+            "TEXCOORD_0": 54
+          },
+          "indices": 55,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.056_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 57,
+            "POSITION": 56,
+            "TEXCOORD_0": 58
+          },
+          "indices": 59,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.062_AstonMartinValkyrieSecondMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 61,
+            "POSITION": 60,
+            "TEXCOORD_0": 62
+          },
+          "indices": 63,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.063_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 65,
+            "POSITION": 64,
+            "TEXCOORD_0": 66
+          },
+          "indices": 67,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.066_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 69,
+            "POSITION": 68,
+            "TEXCOORD_0": 70
+          },
+          "indices": 71,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.005_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 73,
+            "POSITION": 72,
+            "TEXCOORD_0": 74
+          },
+          "indices": 75,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.015_AstonMartinValkyrie2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 77,
+            "POSITION": 76,
+            "TEXCOORD_0": 78
+          },
+          "indices": 79,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.074_AstonMartinValkyrieFronLights2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 81,
+            "POSITION": 80,
+            "TEXCOORD_0": 82
+          },
+          "indices": 83,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.028_AstonMartinValkyrieFrontLights_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 85,
+            "POSITION": 84,
+            "TEXCOORD_0": 86
+          },
+          "indices": 87,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.077_AstonMartinValkyrieFrontLights_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 89,
+            "POSITION": 88,
+            "TEXCOORD_0": 90
+          },
+          "indices": 91,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.078_AstonMartinValkyrieFrontLights3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 93,
+            "POSITION": 92,
+            "TEXCOORD_0": 94
+          },
+          "indices": 95,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.079_AstonMartinValkyrieLightsCover_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 97,
+            "POSITION": 96,
+            "TEXCOORD_0": 98
+          },
+          "indices": 99,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.003_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 101,
+            "POSITION": 100,
+            "TEXCOORD_0": 102
+          },
+          "indices": 103,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.003_AstonMartinValkyrie6_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 105,
+            "POSITION": 104,
+            "TEXCOORD_0": 106
+          },
+          "indices": 107,
+          "material": 12,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.083_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 109,
+            "POSITION": 108,
+            "TEXCOORD_0": 110
+          },
+          "indices": 111,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.084_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 113,
+            "POSITION": 112,
+            "TEXCOORD_0": 114
+          },
+          "indices": 115,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.088_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 117,
+            "POSITION": 116,
+            "TEXCOORD_0": 118
+          },
+          "indices": 119,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.092_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 121,
+            "POSITION": 120,
+            "TEXCOORD_0": 122
+          },
+          "indices": 123,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.042_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 125,
+            "POSITION": 124,
+            "TEXCOORD_0": 126
+          },
+          "indices": 127,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.042_AstonMartinValkyrieBackLights_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 129,
+            "POSITION": 128,
+            "TEXCOORD_0": 130
+          },
+          "indices": 131,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.054_AstonMartinValkyrieBackLights_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 133,
+            "POSITION": 132,
+            "TEXCOORD_0": 134
+          },
+          "indices": 135,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.103__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 137,
+            "POSITION": 136,
+            "TEXCOORD_0": 138
+          },
+          "indices": 139,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.106_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 141,
+            "POSITION": 140,
+            "TEXCOORD_0": 142
+          },
+          "indices": 143,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.114_AstonMartinValkyrieSecondMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 145,
+            "POSITION": 144,
+            "TEXCOORD_0": 146
+          },
+          "indices": 147,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.119_AstonMartinValkyrie2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 149,
+            "POSITION": 148,
+            "TEXCOORD_0": 150
+          },
+          "indices": 151,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.121_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 153,
+            "POSITION": 152,
+            "TEXCOORD_0": 154
+          },
+          "indices": 155,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.001_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 157,
+            "POSITION": 156,
+            "TEXCOORD_0": 158
+          },
+          "indices": 159,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.002_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 161,
+            "POSITION": 160,
+            "TEXCOORD_0": 162
+          },
+          "indices": 163,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.004_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 165,
+            "POSITION": 164,
+            "TEXCOORD_0": 166
+          },
+          "indices": 167,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.005_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 169,
+            "POSITION": 168,
+            "TEXCOORD_0": 170
+          },
+          "indices": 171,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.006_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 173,
+            "POSITION": 172,
+            "TEXCOORD_0": 174
+          },
+          "indices": 175,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.007_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 177,
+            "POSITION": 176,
+            "TEXCOORD_0": 178
+          },
+          "indices": 179,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.013_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 181,
+            "POSITION": 180,
+            "TEXCOORD_0": 182
+          },
+          "indices": 183,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.014_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 185,
+            "POSITION": 184,
+            "TEXCOORD_0": 186
+          },
+          "indices": 187,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.015_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 189,
+            "POSITION": 188,
+            "TEXCOORD_0": 190
+          },
+          "indices": 191,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.016_AstonMartinValkyrie1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 193,
+            "POSITION": 192,
+            "TEXCOORD_0": 194
+          },
+          "indices": 195,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.017_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 197,
+            "POSITION": 196,
+            "TEXCOORD_0": 198
+          },
+          "indices": 199,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.018_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 201,
+            "POSITION": 200,
+            "TEXCOORD_0": 202
+          },
+          "indices": 203,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.019_AstonMartinValkyrieThirdMain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 205,
+            "POSITION": 204,
+            "TEXCOORD_0": 206
+          },
+          "indices": 207,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.021_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 209,
+            "POSITION": 208,
+            "TEXCOORD_0": 210
+          },
+          "indices": 211,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.022_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 213,
+            "POSITION": 212,
+            "TEXCOORD_0": 214
+          },
+          "indices": 215,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.023_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 217,
+            "POSITION": 216,
+            "TEXCOORD_0": 218
+          },
+          "indices": 219,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.024_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 221,
+            "POSITION": 220,
+            "TEXCOORD_0": 222
+          },
+          "indices": 223,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.025_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 225,
+            "POSITION": 224,
+            "TEXCOORD_0": 226
+          },
+          "indices": 227,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.026_AstonMartinValkyrieMainBody_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 229,
+            "POSITION": 228,
+            "TEXCOORD_0": 230
+          },
+          "indices": 231,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.030_AstonMartinValkyrieFrontLightsInside_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 233,
+            "POSITION": 232,
+            "TEXCOORD_0": 234
+          },
+          "indices": 235,
+          "material": 14,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FrontRightWheel_AstonMartinValkyrieTires_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 237,
+            "POSITION": 236,
+            "TEXCOORD_0": 238
+          },
+          "indices": 239,
+          "material": 15,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.001_AstonMartinValkyrieBrakes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 241,
+            "POSITION": 240,
+            "TEXCOORD_0": 242
+          },
+          "indices": 243,
+          "material": 16,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.002_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 245,
+            "POSITION": 244,
+            "TEXCOORD_0": 246
+          },
+          "indices": 247,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.004_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 249,
+            "POSITION": 248,
+            "TEXCOORD_0": 250
+          },
+          "indices": 251,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.005_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 253,
+            "POSITION": 252,
+            "TEXCOORD_0": 254
+          },
+          "indices": 255,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.006_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 257,
+            "POSITION": 256,
+            "TEXCOORD_0": 258
+          },
+          "indices": 259,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.007_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 261,
+            "POSITION": 260,
+            "TEXCOORD_0": 262
+          },
+          "indices": 263,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.007_AstonMartinValkyrieWheel3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 265,
+            "POSITION": 264,
+            "TEXCOORD_0": 266
+          },
+          "indices": 267,
+          "material": 19,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.008_AstonMartinValkyrieWheel5_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 269,
+            "POSITION": 268,
+            "TEXCOORD_0": 270
+          },
+          "indices": 271,
+          "material": 20,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.009_AstonMartinValkyrieWheel4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 273,
+            "POSITION": 272,
+            "TEXCOORD_0": 274
+          },
+          "indices": 275,
+          "material": 21,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 277,
+            "POSITION": 276,
+            "TEXCOORD_0": 278
+          },
+          "indices": 279,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "RearRightWheel_AstonMartinValkyrieTires_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 281,
+            "POSITION": 280,
+            "TEXCOORD_0": 282
+          },
+          "indices": 283,
+          "material": 15,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.002_AstonMartinValkyrieBrakes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 285,
+            "POSITION": 284,
+            "TEXCOORD_0": 286
+          },
+          "indices": 287,
+          "material": 16,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.011_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 289,
+            "POSITION": 288,
+            "TEXCOORD_0": 290
+          },
+          "indices": 291,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.012_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 293,
+            "POSITION": 292,
+            "TEXCOORD_0": 294
+          },
+          "indices": 295,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.013_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 297,
+            "POSITION": 296,
+            "TEXCOORD_0": 298
+          },
+          "indices": 299,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.014_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 301,
+            "POSITION": 300,
+            "TEXCOORD_0": 302
+          },
+          "indices": 303,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.015_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 305,
+            "POSITION": 304,
+            "TEXCOORD_0": 306
+          },
+          "indices": 307,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.015_AstonMartinValkyrieWheel3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 309,
+            "POSITION": 308,
+            "TEXCOORD_0": 310
+          },
+          "indices": 311,
+          "material": 19,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.016_AstonMartinValkyrieWheel5_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 313,
+            "POSITION": 312,
+            "TEXCOORD_0": 314
+          },
+          "indices": 315,
+          "material": 20,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.017_AstonMartinValkyrieWheel4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 317,
+            "POSITION": 316,
+            "TEXCOORD_0": 318
+          },
+          "indices": 319,
+          "material": 21,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.020_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 321,
+            "POSITION": 320,
+            "TEXCOORD_0": 322
+          },
+          "indices": 323,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FrontLeftWheel_AstonMartinValkyrieTires_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 325,
+            "POSITION": 324,
+            "TEXCOORD_0": 326
+          },
+          "indices": 327,
+          "material": 15,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.003_AstonMartinValkyrieBrakes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 329,
+            "POSITION": 328,
+            "TEXCOORD_0": 330
+          },
+          "indices": 331,
+          "material": 16,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.001_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 333,
+            "POSITION": 332,
+            "TEXCOORD_0": 334
+          },
+          "indices": 335,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.010_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 337,
+            "POSITION": 336,
+            "TEXCOORD_0": 338
+          },
+          "indices": 339,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.018_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 341,
+            "POSITION": 340,
+            "TEXCOORD_0": 342
+          },
+          "indices": 343,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.019_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 345,
+            "POSITION": 344,
+            "TEXCOORD_0": 346
+          },
+          "indices": 347,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.020_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 349,
+            "POSITION": 348,
+            "TEXCOORD_0": 350
+          },
+          "indices": 351,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.020_AstonMartinValkyrieWheel3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 353,
+            "POSITION": 352,
+            "TEXCOORD_0": 354
+          },
+          "indices": 355,
+          "material": 19,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.021_AstonMartinValkyrieWheel5_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 357,
+            "POSITION": 356,
+            "TEXCOORD_0": 358
+          },
+          "indices": 359,
+          "material": 20,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.022_AstonMartinValkyrieWheel4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 361,
+            "POSITION": 360,
+            "TEXCOORD_0": 362
+          },
+          "indices": 363,
+          "material": 21,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.029_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 365,
+            "POSITION": 364,
+            "TEXCOORD_0": 366
+          },
+          "indices": 367,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "RearLeftWheel_AstonMartinValkyrieTires_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 369,
+            "POSITION": 368,
+            "TEXCOORD_0": 370
+          },
+          "indices": 371,
+          "material": 15,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.004_AstonMartinValkyrieBrakes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 373,
+            "POSITION": 372,
+            "TEXCOORD_0": 374
+          },
+          "indices": 375,
+          "material": 16,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.023_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 377,
+            "POSITION": 376,
+            "TEXCOORD_0": 378
+          },
+          "indices": 379,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.024_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 381,
+            "POSITION": 380,
+            "TEXCOORD_0": 382
+          },
+          "indices": 383,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.025_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 385,
+            "POSITION": 384,
+            "TEXCOORD_0": 386
+          },
+          "indices": 387,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.026_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 389,
+            "POSITION": 388,
+            "TEXCOORD_0": 390
+          },
+          "indices": 391,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.027_AstonMartinValkyrieWheel2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 393,
+            "POSITION": 392,
+            "TEXCOORD_0": 394
+          },
+          "indices": 395,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.027_AstonMartinValkyrieWheel3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 397,
+            "POSITION": 396,
+            "TEXCOORD_0": 398
+          },
+          "indices": 399,
+          "material": 19,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.028_AstonMartinValkyrieWheel5_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 401,
+            "POSITION": 400,
+            "TEXCOORD_0": 402
+          },
+          "indices": 403,
+          "material": 20,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.029_AstonMartinValkyrieWheel4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 405,
+            "POSITION": 404,
+            "TEXCOORD_0": 406
+          },
+          "indices": 407,
+          "material": 21,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane.031_AstonMartinValkyrieWheel1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 409,
+            "POSITION": 408,
+            "TEXCOORD_0": 410
+          },
+          "indices": 411,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "1c90866e2e4549f2be29482e4388865c.fbx"
+    },
+    {
+      "children": [
+        3,
+        119,
+        140,
+        161,
+        182
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        56,
+        58,
+        60,
+        62,
+        64,
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        99,
+        101,
+        103,
+        105,
+        107,
+        109,
+        111,
+        113,
+        115,
+        117
+      ],
+      "matrix": [
+        21.404129028320313,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        1.7782440409064293e-06,
+        63.3662109375,
+        149.88632202148438,
+        1.0
+      ],
+      "name": "Body"
+    },
+    {
+      "mesh": 0,
+      "name": "Body_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.7201998233795166,
+        2.8270280361175537,
+        0.12649959325790405,
+        1.0
+      ],
+      "name": "Plane.003"
+    },
+    {
+      "mesh": 1,
+      "name": "Plane.003_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.8119393587112427,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.312067031175852e-08,
+        0.17378854751586864,
+        0.0,
+        0.0,
+        -0.17378854751586864,
+        1.312067031175852e-08,
+        0.0,
+        7.402396136058087e-07,
+        -0.5990781784057617,
+        -0.45175987482070923,
+        1.0
+      ],
+      "name": "Plane.008"
+    },
+    {
+      "mesh": 2,
+      "name": "Plane.008_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        0.40572094917297363,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08684103935956955,
+        3.308722450212111e-24,
+        0.0,
+        0.0,
+        -3.308722450212111e-24,
+        0.08684103935956955,
+        0.0,
+        -4.975419187758234e-09,
+        -0.8983821868896484,
+        -0.46557721495628357,
+        1.0
+      ],
+      "name": "Plane.009"
+    },
+    {
+      "mesh": 3,
+      "name": "Plane.009_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        0.40572094917297363,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08684103935956955,
+        3.308722450212111e-24,
+        0.0,
+        0.0,
+        -3.308722450212111e-24,
+        0.08684103935956955,
+        0.0,
+        -3.570348781067878e-07,
+        -0.7732589244842529,
+        -0.38373976945877075,
+        1.0
+      ],
+      "name": "Plane.010"
+    },
+    {
+      "mesh": 4,
+      "name": "Plane.010_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        6.123783578004804e-07,
+        2.123985767364502,
+        -0.3075091540813446,
+        1.0
+      ],
+      "name": "Plane.011"
+    },
+    {
+      "mesh": 5,
+      "name": "Plane.011_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        0.05383850261569023,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0038434057496488094,
+        2.0679515313825692e-25,
+        0.0,
+        0.0,
+        -6.200328104136897e-25,
+        0.011523663066327572,
+        0.0,
+        4.1359967895004957e-08,
+        -0.5028567314147949,
+        -0.01464390754699707,
+        1.0
+      ],
+      "name": "Cube.007"
+    },
+    {
+      "mesh": 6,
+      "name": "Cube.007_AstonMartinValkyrieFronLights2_0"
+    },
+    {
+      "children": [
+        18
+      ],
+      "matrix": [
+        0.057907991111278534,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.019353129070421e-09,
+        0.012394701130688027,
+        0.0,
+        0.0,
+        -0.012394701130688027,
+        -2.019353129070421e-09,
+        0.0,
+        -1.84283749149472e-07,
+        -0.41634607315063477,
+        -0.008480668067932129,
+        1.0
+      ],
+      "name": "Plane.012"
+    },
+    {
+      "mesh": 7,
+      "name": "Plane.012_AstonMartinValkyrieFronLights2_0"
+    },
+    {
+      "children": [
+        20
+      ],
+      "matrix": [
+        0.05868826434016228,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.046562720817961e-09,
+        0.012561712414026094,
+        0.0,
+        0.0,
+        -0.005935952067375105,
+        -9.67089343654111e-10,
+        0.0,
+        1.2432079188329226e-07,
+        -0.45231175422668457,
+        -0.07230138778686523,
+        1.0
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 8,
+      "name": "Cylinder_AstonMartinValkyrieFrontLights3_0"
+    },
+    {
+      "children": [
+        22
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.0605805768100254e-08,
+        0.9358999729156494,
+        0.3003551959991455,
+        1.0
+      ],
+      "name": "Plane.047"
+    },
+    {
+      "mesh": 9,
+      "name": "Plane.047_AstonMartinValkyrieWindows_0"
+    },
+    {
+      "children": [
+        24
+      ],
+      "matrix": [
+        0.036339834332466125,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.05390797555446625,
+        1.6543612251060553e-24,
+        0.0,
+        0.0,
+        -2.3039035936803112e-24,
+        0.07507355511188507,
+        0.0,
+        -2.414100492842408e-07,
+        3.5849454402923584,
+        -0.0875082015991211,
+        1.0
+      ],
+      "name": "Cube.009"
+    },
+    {
+      "mesh": 10,
+      "name": "Cube.009_AstonMartinValkyrieBack1_0"
+    },
+    {
+      "children": [
+        26
+      ],
+      "matrix": [
+        0.06793363392353058,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.014540602453052998,
+        4.1359030627651384e-25,
+        0.0,
+        0.0,
+        -6.294282795147433e-25,
+        0.022128822281956673,
+        0.0,
+        7.036708780105982e-07,
+        3.7559890747070313,
+        0.0562666654586792,
+        1.0
+      ],
+      "name": "Cube.038"
+    },
+    {
+      "mesh": 11,
+      "name": "Cube.038_AstonMartinValkyrieLightsCover_0"
+    },
+    {
+      "children": [
+        28
+      ],
+      "matrix": [
+        4.671995639800974,
+        -5.721544505912652e-16,
+        7.054517150133666e-07,
+        -0.0,
+        -1.2805870681099729e-17,
+        -0.10456788539886475,
+        -1.2805872614732552e-17,
+        -0.0,
+        -1.5099579909783712e-07,
+        -1.2246466142308313e-16,
+        0.9999999999999889,
+        -0.0,
+        -1.8327318684896454e-07,
+        3.8251090049743652,
+        0.21779674291610718,
+        1.0
+      ],
+      "name": "Plane.027"
+    },
+    {
+      "mesh": 12,
+      "name": "Plane.027_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        30
+      ],
+      "matrix": [
+        0.14332346618175507,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.997940451344825e-09,
+        0.030677139759063315,
+        0.0,
+        0.0,
+        -0.030677139759063315,
+        -4.997940451344825e-09,
+        0.0,
+        -1.3050203051534481e-07,
+        3.771956443786621,
+        -0.015185177326202393,
+        1.0
+      ],
+      "name": "Plane.028"
+    },
+    {
+      "mesh": 13,
+      "name": "Plane.028_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        32
+      ],
+      "matrix": [
+        3.878438026857493e-08,
+        0.0,
+        -0.12354999780654298,
+        0.0,
+        1.3507905324127824e-30,
+        0.12354999780654907,
+        4.240354074662866e-37,
+        0.0,
+        0.577225029468508,
+        -6.310887241768096e-30,
+        1.812004487325081e-07,
+        0.0,
+        -6.560157572721437e-08,
+        3.959749698638916,
+        -0.2087283432483673,
+        1.0
+      ],
+      "name": "Plane.056"
+    },
+    {
+      "mesh": 14,
+      "name": "Plane.056_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        34
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -2.9083750519021123e-07,
+        -0.7253658771514893,
+        -0.23952388763427734,
+        1.0
+      ],
+      "name": "Plane.062"
+    },
+    {
+      "mesh": 15,
+      "name": "Plane.062_AstonMartinValkyrieSecondMain_0"
+    },
+    {
+      "children": [
+        36
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -2.169517046013425e-07,
+        -0.35857653617858887,
+        0.03174716234207153,
+        1.0
+      ],
+      "name": "Plane.063"
+    },
+    {
+      "mesh": 16,
+      "name": "Plane.063_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        38
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -1.786367416381836,
+        2.5731983184814453,
+        0.24083936214447021,
+        1.0
+      ],
+      "name": "Plane.066"
+    },
+    {
+      "mesh": 17,
+      "name": "Plane.066_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        40
+      ],
+      "matrix": [
+        -0.03417063504457474,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.06355078518390585,
+        -9.595901592138956e-09,
+        -0.0,
+        -0.0,
+        9.595901592138956e-09,
+        0.06355078518390585,
+        -0.0,
+        -6.400247798410419e-07,
+        -0.4240919351577759,
+        -0.45141705870628357,
+        1.0
+      ],
+      "name": "Cube.005"
+    },
+    {
+      "mesh": 18,
+      "name": "Cube.005_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        42
+      ],
+      "matrix": [
+        -0.014670582488179207,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.011589279398321977,
+        -1.7499325037177469e-09,
+        -0.0,
+        -0.0,
+        1.7499325037177469e-09,
+        0.011589279398321977,
+        -0.0,
+        -4.039168288727524e-07,
+        -0.7159366607666016,
+        -0.43371015787124634,
+        1.0
+      ],
+      "name": "Cube.015"
+    },
+    {
+      "mesh": 19,
+      "name": "Cube.015_AstonMartinValkyrie2_0"
+    },
+    {
+      "children": [
+        44
+      ],
+      "matrix": [
+        -0.057907991111278534,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        7.135483931141038e-10,
+        0.0043797288089990035,
+        -0.0,
+        -0.0,
+        -0.012394701130688027,
+        2.019353129070421e-09,
+        -0.0,
+        2.711937554522592e-07,
+        -0.43847548961639404,
+        -0.013743698596954346,
+        1.0
+      ],
+      "name": "Plane.074"
+    },
+    {
+      "mesh": 20,
+      "name": "Plane.074_AstonMartinValkyrieFronLights2_0"
+    },
+    {
+      "children": [
+        46
+      ],
+      "matrix": [
+        0.16004176437854767,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.025207435712218285,
+        8.271806125530279e-25,
+        0.0,
+        0.0,
+        -1.5323554466501715e-25,
+        0.004669687710702419,
+        0.0,
+        8.321807172251283e-07,
+        -0.44366931915283203,
+        -0.011035323143005371,
+        1.0
+      ],
+      "name": "Cube.028"
+    },
+    {
+      "mesh": 21,
+      "name": "Cube.028_AstonMartinValkyrieFrontLights_0"
+    },
+    {
+      "children": [
+        48
+      ],
+      "matrix": [
+        0.14940229058265686,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -8.087460796818854e-10,
+        -0.004964048042893344,
+        0.0,
+        0.0,
+        0.031978260725736195,
+        -5.20991996320613e-09,
+        0.0,
+        -1.1021874968264456e-07,
+        -0.5176455974578857,
+        -0.06519550085067749,
+        1.0
+      ],
+      "name": "Plane.077"
+    },
+    {
+      "mesh": 22,
+      "name": "Plane.077_AstonMartinValkyrieFrontLights_0"
+    },
+    {
+      "children": [
+        50
+      ],
+      "matrix": [
+        0.14940229058265686,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.1388641258911817e-09,
+        -0.006990298163145689,
+        0.0,
+        0.0,
+        0.031978260725736195,
+        -5.20991996320613e-09,
+        0.0,
+        7.317387940020126e-07,
+        -0.42509925365448,
+        0.03230869770050049,
+        1.0
+      ],
+      "name": "Plane.078"
+    },
+    {
+      "mesh": 23,
+      "name": "Plane.078_AstonMartinValkyrieFrontLights3_0"
+    },
+    {
+      "children": [
+        52
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        9.953897972536652e-08,
+        -0.5469465255737305,
+        -0.021056830883026123,
+        1.0
+      ],
+      "name": "Plane.079"
+    },
+    {
+      "mesh": 24,
+      "name": "Plane.079_AstonMartinValkyrieLightsCover_0"
+    },
+    {
+      "children": [
+        54,
+        55
+      ],
+      "matrix": [
+        0.09751054644584656,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -3.4003636853977264e-09,
+        -0.020871283486485207,
+        0.0,
+        0.0,
+        0.025189027190208102,
+        -4.1038134230480725e-09,
+        0.0,
+        1.5944906408549286e-06,
+        0.603168249130249,
+        -0.07915627956390381,
+        1.0
+      ],
+      "name": "Cylinder.003"
+    },
+    {
+      "mesh": 25,
+      "name": "Cylinder.003_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "mesh": 26,
+      "name": "Cylinder.003_AstonMartinValkyrie6_0"
+    },
+    {
+      "children": [
+        57
+      ],
+      "matrix": [
+        -1.21691361596329e-07,
+        -0.0,
+        -0.28096079826352344,
+        -0.0,
+        -4.2423900248966916e-08,
+        0.2809607982635466,
+        1.837488438062123e-14,
+        -0.0,
+        -1.3126475811003258,
+        -1.9820427044210746e-07,
+        5.68541491861291e-07,
+        -0.0,
+        -6.490044484053215e-07,
+        0.5989069938659668,
+        -0.2543017864227295,
+        1.0
+      ],
+      "name": "Plane.083"
+    },
+    {
+      "mesh": 27,
+      "name": "Plane.083_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        59
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -1.3157139733266376e-07,
+        1.0527209043502808,
+        0.2991994619369507,
+        1.0
+      ],
+      "name": "Plane.084"
+    },
+    {
+      "mesh": 28,
+      "name": "Plane.084_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        61
+      ],
+      "matrix": [
+        -5.351268771737742e-08,
+        -0.0,
+        -0.12354999780653748,
+        -0.0,
+        -1.8655530647334144e-08,
+        0.12354999780654764,
+        8.080191040715272e-15,
+        -0.0,
+        -0.5772250294684756,
+        -8.715855458387421e-08,
+        2.500110342782114e-07,
+        -0.0,
+        -9.287911950650596e-08,
+        3.890850782394409,
+        -0.19395622611045837,
+        1.0
+      ],
+      "name": "Plane.088"
+    },
+    {
+      "mesh": 29,
+      "name": "Plane.088_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        63
+      ],
+      "matrix": [
+        -0.6750174164771803,
+        -1.0192479420593047e-07,
+        -1.4416714652814455e-07,
+        0.0,
+        2.5013057916827968e-09,
+        1.9080590632182157e-09,
+        -0.011711580678820189,
+        0.0,
+        2.1816119573263865e-08,
+        -0.14448159933089855,
+        -2.3539040386771664e-08,
+        0.0,
+        -4.967389486409957e-07,
+        3.660994529724121,
+        -0.027882158756256104,
+        1.0
+      ],
+      "name": "Plane.092"
+    },
+    {
+      "mesh": 30,
+      "name": "Plane.092_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        65,
+        66
+      ],
+      "matrix": [
+        -0.17526566982269287,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.037514090538024486,
+        -5.66447007821768e-09,
+        -0.0,
+        -0.0,
+        5.66447007821768e-09,
+        0.037514090538024486,
+        -0.0,
+        1.2344513322659623e-07,
+        3.762219190597534,
+        0.168706476688385,
+        1.0
+      ],
+      "name": "Cube.042"
+    },
+    {
+      "mesh": 31,
+      "name": "Cube.042_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "mesh": 32,
+      "name": "Cube.042_AstonMartinValkyrieBackLights_0"
+    },
+    {
+      "children": [
+        68
+      ],
+      "matrix": [
+        -0.0583546943962574,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.012490314431488375,
+        -1.885985008565855e-09,
+        -0.0,
+        -0.0,
+        1.885985008565855e-09,
+        0.012490314431488375,
+        -0.0,
+        1.1924673799512675e-06,
+        3.8040096759796143,
+        0.05610001087188721,
+        1.0
+      ],
+      "name": "Cube.054"
+    },
+    {
+      "mesh": 33,
+      "name": "Cube.054_AstonMartinValkyrieBackLights_0"
+    },
+    {
+      "children": [
+        70
+      ],
+      "matrix": [
+        -0.40572094917297363,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.08684103935956859,
+        -1.3112632132584927e-08,
+        -0.0,
+        -0.0,
+        1.3112632132584927e-08,
+        0.08684103935956859,
+        -0.0,
+        -2.4890476879591006e-07,
+        -0.884345531463623,
+        -0.45389607548713684,
+        1.0
+      ],
+      "name": "Plane.103"
+    },
+    {
+      "mesh": 34,
+      "name": "Plane.103__0"
+    },
+    {
+      "children": [
+        72
+      ],
+      "matrix": [
+        -0.8119393587112427,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -5.4555088893910824e-08,
+        0.17378854751586056,
+        -0.0,
+        -0.0,
+        -0.17378854751586056,
+        -5.4555088893910824e-08,
+        -0.0,
+        1.3814614874263498e-07,
+        -0.635183572769165,
+        -0.40872007608413696,
+        1.0
+      ],
+      "name": "Plane.106"
+    },
+    {
+      "mesh": 35,
+      "name": "Plane.106_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        74
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -1.7304425909969723e-06,
+        1.5311517715454102,
+        -0.12473076581954956,
+        1.0
+      ],
+      "name": "Plane.114"
+    },
+    {
+      "mesh": 36,
+      "name": "Plane.114_AstonMartinValkyrieSecondMain_0"
+    },
+    {
+      "children": [
+        76
+      ],
+      "matrix": [
+        -5.351268771737742e-08,
+        -0.0,
+        -0.12354999780653748,
+        -0.0,
+        -1.8655530647334144e-08,
+        0.12354999780654764,
+        8.080191040715272e-15,
+        -0.0,
+        -0.5772250294684756,
+        -8.715855458387421e-08,
+        2.500110342782114e-07,
+        -0.0,
+        -9.139024115256689e-08,
+        3.9392378330230713,
+        -0.17458945512771606,
+        1.0
+      ],
+      "name": "Plane.119"
+    },
+    {
+      "mesh": 37,
+      "name": "Plane.119_AstonMartinValkyrie2_0"
+    },
+    {
+      "children": [
+        78
+      ],
+      "matrix": [
+        -4.671995639800974,
+        7.054517150133665e-07,
+        2.5243548967072383e-29,
+        0.0,
+        -1.5789311415772634e-08,
+        -0.10456788539886358,
+        0.0,
+        0.0,
+        5.4031619276398104e-30,
+        -8.158547529189922e-37,
+        1.0,
+        0.0,
+        3.1733972718939185e-05,
+        3.8227529525756836,
+        0.25976723432540894,
+        1.0
+      ],
+      "name": "Plane.121"
+    },
+    {
+      "mesh": 38,
+      "name": "Plane.121_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        80
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -9.90162689618046e-08,
+        -0.2689396142959595,
+        0.04405403137207031,
+        1.0
+      ],
+      "name": "Plane.001"
+    },
+    {
+      "mesh": 39,
+      "name": "Plane.001_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        82
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.7548904418945313,
+        3.694282054901123,
+        -0.039040446281433105,
+        1.0
+      ],
+      "name": "Plane.002"
+    },
+    {
+      "mesh": 40,
+      "name": "Plane.002_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        84
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.7939412593841553,
+        3.686253547668457,
+        -0.05530667304992676,
+        1.0
+      ],
+      "name": "Plane.004"
+    },
+    {
+      "mesh": 41,
+      "name": "Plane.004_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        86
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -2.209212368597946e-09,
+        2.393491744995117,
+        0.39382243156433105,
+        1.0
+      ],
+      "name": "Plane.005"
+    },
+    {
+      "mesh": 42,
+      "name": "Plane.005_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        88
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -4.69806202829659e-08,
+        1.9632349014282227,
+        0.49276673793792725,
+        1.0
+      ],
+      "name": "Plane.006"
+    },
+    {
+      "mesh": 43,
+      "name": "Plane.006_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        90
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        5.6824433158908505e-08,
+        3.6810054779052734,
+        0.03513967990875244,
+        1.0
+      ],
+      "name": "Plane.007"
+    },
+    {
+      "mesh": 44,
+      "name": "Plane.007_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        92
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        1.7863678932189941,
+        2.5731983184814453,
+        0.24083936214447021,
+        1.0
+      ],
+      "name": "Plane.013"
+    },
+    {
+      "mesh": 45,
+      "name": "Plane.013_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        94
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -5.437475536496095e-08,
+        1.3988046646118164,
+        0.5073387622833252,
+        1.0
+      ],
+      "name": "Plane.014"
+    },
+    {
+      "mesh": 46,
+      "name": "Plane.014_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        96
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -1.530556082725525,
+        1.4287323951721191,
+        0.47688162326812744,
+        1.0
+      ],
+      "name": "Plane.015"
+    },
+    {
+      "mesh": 47,
+      "name": "Plane.015_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        98
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        1.5305558443069458,
+        1.4287323951721191,
+        0.47688162326812744,
+        1.0
+      ],
+      "name": "Plane.016"
+    },
+    {
+      "mesh": 48,
+      "name": "Plane.016_AstonMartinValkyrie1_0"
+    },
+    {
+      "children": [
+        100
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        -1.6679487228393555,
+        3.463893413543701,
+        0.10020864009857178,
+        1.0
+      ],
+      "name": "Plane.017"
+    },
+    {
+      "mesh": 49,
+      "name": "Plane.017_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        102
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        1.6581828594207764,
+        3.4546828269958496,
+        0.10090422630310059,
+        1.0
+      ],
+      "name": "Plane.018"
+    },
+    {
+      "mesh": 50,
+      "name": "Plane.018_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        104
+      ],
+      "matrix": [
+        -1.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        0.9999999999999889,
+        -1.509957990978371e-07,
+        -0.0,
+        -0.0,
+        1.509957990978371e-07,
+        0.9999999999999889,
+        -0.0,
+        4.068411953994655e-07,
+        3.0443315505981445,
+        0.24069565534591675,
+        1.0
+      ],
+      "name": "Plane.019"
+    },
+    {
+      "mesh": 51,
+      "name": "Plane.019_AstonMartinValkyrieThirdMain_0"
+    },
+    {
+      "children": [
+        106
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.742846965789795,
+        3.666168212890625,
+        0.1568942666053772,
+        1.0
+      ],
+      "name": "Plane.021"
+    },
+    {
+      "mesh": 52,
+      "name": "Plane.021_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        108
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.7192423343658447,
+        2.846071720123291,
+        0.1268010139465332,
+        1.0
+      ],
+      "name": "Plane.022"
+    },
+    {
+      "mesh": 53,
+      "name": "Plane.022_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        110
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.518167018890381,
+        1.3335511684417725,
+        0.08228856325149536,
+        1.0
+      ],
+      "name": "Plane.023"
+    },
+    {
+      "mesh": 54,
+      "name": "Plane.023_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        112
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.8319077491760254,
+        1.411777377128601,
+        -0.009837329387664795,
+        1.0
+      ],
+      "name": "Plane.024"
+    },
+    {
+      "mesh": 55,
+      "name": "Plane.024_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        114
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.518167734146118,
+        1.3335511684417725,
+        0.08228856325149536,
+        1.0
+      ],
+      "name": "Plane.025"
+    },
+    {
+      "mesh": 56,
+      "name": "Plane.025_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        116
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.8319075107574463,
+        1.411777377128601,
+        -0.009837329387664795,
+        1.0
+      ],
+      "name": "Plane.026"
+    },
+    {
+      "mesh": 57,
+      "name": "Plane.026_AstonMartinValkyrieMainBody_0"
+    },
+    {
+      "children": [
+        118
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -6.31050568244973e-07,
+        -0.36015939712524414,
+        -0.015876591205596924,
+        1.0
+      ],
+      "name": "Plane.030"
+    },
+    {
+      "mesh": 58,
+      "name": "Plane.030_AstonMartinValkyrieFrontLightsInside_0"
+    },
+    {
+      "children": [
+        120,
+        121,
+        123,
+        125,
+        127,
+        129,
+        131,
+        134,
+        136,
+        138
+      ],
+      "matrix": [
+        1.6937855169866945e-06,
+        -38.7492942810058,
+        1.4563769404635883e-06,
+        -0.0,
+        22.879482088695486,
+        -1.7531138181591712e-07,
+        -31.27358480617558,
+        -0.0,
+        -10.544205306988092,
+        -7.508313502255499e-07,
+        -7.714048707749137,
+        -0.0,
+        94.38603210449219,
+        40.19221496582031,
+        146.05374145507813,
+        1.0
+      ],
+      "name": "FrontRightWheel"
+    },
+    {
+      "mesh": 59,
+      "name": "FrontRightWheel_AstonMartinValkyrieTires_0"
+    },
+    {
+      "children": [
+        122
+      ],
+      "matrix": [
+        1.9177250114510213e-08,
+        -1.3447197513992384e-23,
+        0.2540103793144219,
+        0.0,
+        1.2575971599517166e-07,
+        0.3948395252227583,
+        -9.494594406316938e-15,
+        0.0,
+        -0.3948395550250796,
+        1.2575972548746282e-07,
+        2.98095570828839e-08,
+        0.0,
+        0.008962355554103851,
+        0.46865177154541016,
+        0.16511058807373047,
+        1.0
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 60,
+      "name": "Cube.001_AstonMartinValkyrieBrakes_0"
+    },
+    {
+      "children": [
+        124
+      ],
+      "matrix": [
+        0.227507859468453,
+        7.656583723185454e-15,
+        5.6735413965153e-08,
+        0.0,
+        1.7426546075199483e-14,
+        0.22750785946843785,
+        -1.0058284183322996e-07,
+        0.0,
+        -5.673540281709356e-08,
+        1.0058282206950334e-07,
+        0.2275078147649472,
+        0.0,
+        -8.828941417959868e-07,
+        -2.384185791015625e-07,
+        -0.29647159576416016,
+        1.0
+      ],
+      "name": "Cylinder.002"
+    },
+    {
+      "mesh": 61,
+      "name": "Cylinder.002_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        126
+      ],
+      "matrix": [
+        1.0000005960464167,
+        4.6746041498240644e-14,
+        2.4937796836843044e-07,
+        0.0,
+        1.0003673372172539e-13,
+        1.0000003576276955,
+        -5.885959073470561e-07,
+        0.0,
+        -2.493778494558039e-07,
+        5.885957670149129e-07,
+        1.0000001192090853,
+        0.0,
+        -1.604114800102252e-06,
+        -1.3113021850585938e-06,
+        -0.006125450134277344,
+        1.0
+      ],
+      "name": "Cylinder.004"
+    },
+    {
+      "mesh": 62,
+      "name": "Cylinder.004_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        128
+      ],
+      "matrix": [
+        0.19508966803550112,
+        6.9715171334388536e-15,
+        4.8651041610870943e-08,
+        0.0,
+        1.762965682654593e-14,
+        0.19508963823315986,
+        -9.865019318100465e-08,
+        0.0,
+        -1.2254867520387155e-08,
+        2.48493185951617e-08,
+        0.04914176464080029,
+        0.0,
+        -7.592682891299773e-07,
+        -1.430511474609375e-06,
+        -0.5114555358886719,
+        1.0
+      ],
+      "name": "Cylinder.005"
+    },
+    {
+      "mesh": 63,
+      "name": "Cylinder.005_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        130
+      ],
+      "matrix": [
+        0.17236490547656477,
+        5.557594989485574e-15,
+        4.298398432531243e-08,
+        0.0,
+        1.5327556409176924e-14,
+        0.1723648905753886,
+        -8.37490316540901e-08,
+        0.0,
+        -1.0827374112382709e-08,
+        2.1095814869054443e-08,
+        0.04341755062341043,
+        0.0,
+        -1.1157916333104367e-06,
+        -1.6689300537109375e-06,
+        -0.5652189254760742,
+        1.0
+      ],
+      "name": "Cylinder.006"
+    },
+    {
+      "mesh": 64,
+      "name": "Cylinder.006_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        132,
+        133
+      ],
+      "matrix": [
+        0.1275909394025763,
+        4.9081407556019056e-15,
+        3.1818353911572944e-08,
+        0.0,
+        1.1569478022581416e-14,
+        0.12759092450140194,
+        -6.607490732335462e-08,
+        0.0,
+        -8.01482701221556e-09,
+        1.664382184463184e-08,
+        0.032139290124172624,
+        0.0,
+        -1.3520852917281445e-06,
+        -2.9802322387695313e-06,
+        -0.6686563491821289,
+        1.0
+      ],
+      "name": "Cylinder.007"
+    },
+    {
+      "mesh": 65,
+      "name": "Cylinder.007_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "mesh": 66,
+      "name": "Cylinder.007_AstonMartinValkyrieWheel3_0"
+    },
+    {
+      "children": [
+        135
+      ],
+      "matrix": [
+        0.5712006688117803,
+        2.0093567447127132e-14,
+        1.4244477741527134e-07,
+        0.0,
+        4.673892058909288e-14,
+        0.5712006092070905,
+        -2.6799691332790587e-07,
+        0.0,
+        -3.588087329121083e-08,
+        6.750661180749795e-08,
+        0.14388157427308915,
+        0.0,
+        -1.131332055592793e-06,
+        -7.152557373046875e-07,
+        0.19122791290283203,
+        1.0
+      ],
+      "name": "Cylinder.008"
+    },
+    {
+      "mesh": 67,
+      "name": "Cylinder.008_AstonMartinValkyrieWheel5_0"
+    },
+    {
+      "children": [
+        137
+      ],
+      "matrix": [
+        0.326326549053182,
+        9.15860616619923e-15,
+        8.137860332213861e-08,
+        0.0,
+        2.4257638387491804e-14,
+        0.3263265192508423,
+        -1.3399845966155518e-07,
+        0.0,
+        -2.0498718840012007e-08,
+        3.375330723703475e-08,
+        0.08219944685696608,
+        0.0,
+        -1.3662606761499774e-06,
+        2.384185791015625e-07,
+        0.021356582641601563,
+        1.0
+      ],
+      "name": "Cylinder.009"
+    },
+    {
+      "mesh": 68,
+      "name": "Cylinder.009_AstonMartinValkyrieWheel4_0"
+    },
+    {
+      "children": [
+        139
+      ],
+      "matrix": [
+        0.32979902625083807,
+        -2.8831947651687045e-08,
+        -3.852172132020901e-15,
+        -0.0,
+        2.8831945046285174e-08,
+        0.3297989964485157,
+        -1.2767564783189302e-15,
+        -0.0,
+        -1.142534600419021e-14,
+        -3.786793807696187e-15,
+        -0.9781670570373535,
+        -0.0,
+        0.000781853508669883,
+        -0.00022614002227783203,
+        -0.6953954696655273,
+        1.0
+      ],
+      "name": "Plane"
+    },
+    {
+      "mesh": 69,
+      "name": "Plane_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        141,
+        142,
+        144,
+        146,
+        148,
+        150,
+        152,
+        155,
+        157,
+        159
+      ],
+      "matrix": [
+        6.598882293230961e-06,
+        -40.50365066528259,
+        2.414205422214972e-06,
+        -0.0,
+        -6.598881897511808e-06,
+        -2.414206501449025e-06,
+        -40.50365066528259,
+        -0.0,
+        -17.150917053222198,
+        -2.7942388947484325e-06,
+        2.794239062312251e-06,
+        -0.0,
+        89.77908325195313,
+        40.19225311279297,
+        -161.55442810058594,
+        1.0
+      ],
+      "name": "RearRightWheel"
+    },
+    {
+      "mesh": 70,
+      "name": "RearRightWheel_AstonMartinValkyrieTires_0"
+    },
+    {
+      "children": [
+        143
+      ],
+      "matrix": [
+        1.9177247836296655e-08,
+        0.0,
+        0.2540103495120995,
+        0.0,
+        2.2279206309539597e-07,
+        0.39483940601342593,
+        -1.6820332800799035e-14,
+        0.0,
+        -0.39483940601342477,
+        2.227920630953966e-07,
+        2.980954578898421e-08,
+        0.0,
+        0.008964462205767632,
+        0.46865320205688477,
+        0.16512680053710938,
+        1.0
+      ],
+      "name": "Cube.002"
+    },
+    {
+      "mesh": 71,
+      "name": "Cube.002_AstonMartinValkyrieBrakes_0"
+    },
+    {
+      "children": [
+        145
+      ],
+      "matrix": [
+        0.2275077700614879,
+        9.10186540436997e-15,
+        4.7836918056628104e-08,
+        0.0,
+        2.84857259742325e-14,
+        0.2275077700614227,
+        -1.787629605737697e-07,
+        0.0,
+        -4.783692118981294e-08,
+        1.7876297228227595e-07,
+        0.22750778496257884,
+        0.0,
+        -4.192225446786324e-07,
+        0.0,
+        -0.2964668273925781,
+        1.0
+      ],
+      "name": "Cylinder.011"
+    },
+    {
+      "mesh": 72,
+      "name": "Cylinder.011_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        147
+      ],
+      "matrix": [
+        0.9999999999999779,
+        4.000682979822326e-14,
+        2.102649858670687e-07,
+        0.0,
+        1.252077093291347e-13,
+        0.9999999999996914,
+        -7.857444188629337e-07,
+        0.0,
+        -2.1026501093257482e-07,
+        7.857445125309765e-07,
+        1.0000001192089587,
+        0.0,
+        4.0595998029857583e-07,
+        7.152557373046875e-07,
+        -0.006105899810791016,
+        1.0
+      ],
+      "name": "Cylinder.012"
+    },
+    {
+      "mesh": 73,
+      "name": "Cylinder.012_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        149
+      ],
+      "matrix": [
+        0.19508957862853574,
+        7.804911597477331e-15,
+        4.102050472075269e-08,
+        0.0,
+        2.4426716382306223e-14,
+        0.19508957862847984,
+        -1.5329052540657962e-07,
+        0.0,
+        -1.0332791749334209e-08,
+        3.861286171281947e-08,
+        0.04914176464079185,
+        0.0,
+        1.240922813394718e-07,
+        -1.430511474609375e-06,
+        -0.5114574432373047,
+        1.0
+      ],
+      "name": "Cylinder.013"
+    },
+    {
+      "mesh": 74,
+      "name": "Cylinder.013_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        151
+      ],
+      "matrix": [
+        0.17236481606959916,
+        6.895770440784727e-15,
+        3.6242285614854946e-08,
+        0.0,
+        2.1581403207926557e-14,
+        0.17236481606954976,
+        -1.354346922350267e-07,
+        0.0,
+        -9.129189884915926e-09,
+        3.411509515592306e-08,
+        0.04341754689811224,
+        0.0,
+        -1.1260752330599644e-07,
+        -4.440892098500626e-16,
+        -0.565220832824707,
+        1.0
+      ],
+      "name": "Cylinder.014"
+    },
+    {
+      "mesh": 75,
+      "name": "Cylinder.014_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        153,
+        154
+      ],
+      "matrix": [
+        0.12759087979793265,
+        5.104506177200463e-15,
+        2.6827894537479764e-08,
+        0.0,
+        1.5975362225469577e-14,
+        0.1275908797978961,
+        -1.0025382169903925e-07,
+        0.0,
+        -6.757767383736817e-09,
+        2.52532678412897e-08,
+        0.0321392901241673,
+        0.0,
+        -4.073237107604655e-07,
+        4.76837158203125e-07,
+        -0.6686663627624512,
+        1.0
+      ],
+      "name": "Cylinder.015"
+    },
+    {
+      "mesh": 76,
+      "name": "Cylinder.015_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "mesh": 77,
+      "name": "Cylinder.015_AstonMartinValkyrieWheel3_0"
+    },
+    {
+      "children": [
+        156
+      ],
+      "matrix": [
+        0.5712004303932063,
+        2.285191258534497e-14,
+        1.2010344230664738e-07,
+        0.0,
+        7.151869006624795e-14,
+        0.5712004303930427,
+        -4.4881751776459225e-07,
+        0.0,
+        -3.025325200318975e-08,
+        1.1305412407508573e-07,
+        0.14388155937190064,
+        0.0,
+        -1.9639509218905005e-07,
+        -4.76837158203125e-07,
+        0.19122982025146484,
+        1.0
+      ],
+      "name": "Cylinder.016"
+    },
+    {
+      "mesh": 78,
+      "name": "Cylinder.016_AstonMartinValkyrieWheel5_0"
+    },
+    {
+      "children": [
+        158
+      ],
+      "matrix": [
+        0.3263263702392506,
+        1.3055280233018047e-14,
+        6.861500498903271e-08,
+        0.0,
+        4.085857698737171e-14,
+        0.3263263702391571,
+        -2.564091241432962e-07,
+        0.0,
+        -1.7283662796939557e-08,
+        6.458775074723749e-08,
+        0.08219943940636776,
+        0.0,
+        1.0705838349167607e-07,
+        -2.384185791015625e-07,
+        0.021369457244873047,
+        1.0
+      ],
+      "name": "Cylinder.017"
+    },
+    {
+      "mesh": 79,
+      "name": "Cylinder.017_AstonMartinValkyrieWheel4_0"
+    },
+    {
+      "children": [
+        160
+      ],
+      "matrix": [
+        0.32979884743690374,
+        2.8831932019275837e-08,
+        -1.1774402521713436e-15,
+        -0.0,
+        -2.8831932019275837e-08,
+        0.32979884743690374,
+        7.753533641395663e-39,
+        -0.0,
+        -3.492229293927998e-15,
+        -3.053003925901198e-22,
+        -0.9781669974327087,
+        -0.0,
+        0.0007826793589629233,
+        -0.00022602081298828125,
+        -0.6953802108764648,
+        1.0
+      ],
+      "name": "Plane.020"
+    },
+    {
+      "mesh": 80,
+      "name": "Plane.020_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        162,
+        163,
+        165,
+        167,
+        169,
+        171,
+        173,
+        176,
+        178,
+        180
+      ],
+      "matrix": [
+        -1.6937855169866945e-06,
+        -38.7492942810058,
+        -1.4563769404635883e-06,
+        0.0,
+        22.879482088695486,
+        1.7531138181591712e-07,
+        -31.27358480617558,
+        0.0,
+        10.544205306988092,
+        -7.508313502255499e-07,
+        7.714048707749137,
+        0.0,
+        -94.38603210449219,
+        40.19221496582031,
+        146.05374145507813,
+        1.0
+      ],
+      "name": "FrontLeftWheel"
+    },
+    {
+      "mesh": 81,
+      "name": "FrontLeftWheel_AstonMartinValkyrieTires_0"
+    },
+    {
+      "children": [
+        164
+      ],
+      "matrix": [
+        1.9177250086309395e-08,
+        0.0,
+        0.2540103793144219,
+        0.0,
+        7.193128220238168e-08,
+        0.39483952522277177,
+        -5.430660712345752e-15,
+        0.0,
+        -0.394839555025093,
+        7.1931287631725e-08,
+        2.980955703904791e-08,
+        0.0,
+        0.008962790481746197,
+        0.46865177154541016,
+        0.16511207818984985,
+        1.0
+      ],
+      "name": "Cube.003"
+    },
+    {
+      "mesh": 82,
+      "name": "Cube.003_AstonMartinValkyrieBrakes_0"
+    },
+    {
+      "children": [
+        166
+      ],
+      "matrix": [
+        0.227507859468453,
+        4.0503365624707085e-15,
+        5.6735413965153016e-08,
+        0.0,
+        8.491228322878232e-15,
+        0.22750785946845453,
+        -5.029142086110383e-08,
+        0.0,
+        -5.673540281709526e-08,
+        5.029141097924047e-08,
+        0.22750781476496387,
+        0.0,
+        -1.002103431346768e-06,
+        0.0,
+        -0.29647296667099,
+        1.0
+      ],
+      "name": "Cylinder.001"
+    },
+    {
+      "mesh": 83,
+      "name": "Cylinder.001_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        168
+      ],
+      "matrix": [
+        1.0000005960464167,
+        2.0601415501191956e-14,
+        2.4937796836843044e-07,
+        0.0,
+        2.770684062520075e-14,
+        1.0000003576278498,
+        -1.937151077324728e-07,
+        0.0,
+        -2.4937784945581893e-07,
+        1.9371506154720948e-07,
+        1.0000001192092396,
+        0.0,
+        -1.7233239759661956e-06,
+        -4.76837158203125e-07,
+        -0.0061258673667907715,
+        1.0
+      ],
+      "name": "Cylinder.010"
+    },
+    {
+      "mesh": 84,
+      "name": "Cylinder.010_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        170
+      ],
+      "matrix": [
+        0.19508966803550112,
+        3.963447415679647e-15,
+        4.8651041610870923e-08,
+        0.0,
+        4.851625259514308e-15,
+        0.19508963823318162,
+        -3.53482562109875e-08,
+        0.0,
+        -1.2254868449392684e-08,
+        8.903988108223245e-09,
+        0.049141768366096066,
+        0.0,
+        -8.78477408150502e-07,
+        -9.5367431640625e-07,
+        -0.5114578604698181,
+        1.0
+      ],
+      "name": "Cylinder.018"
+    },
+    {
+      "mesh": 85,
+      "name": "Cylinder.018_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        172
+      ],
+      "matrix": [
+        0.17236490547656477,
+        4.061777896815283e-15,
+        4.298398432531246e-08,
+        0.0,
+        4.06177779664743e-15,
+        0.17236489057540585,
+        -3.257529218592125e-08,
+        0.0,
+        -1.0827374112383314e-08,
+        8.205495868870494e-09,
+        0.04341755062341478,
+        0.0,
+        -1.115791519623599e-06,
+        -9.5367431640625e-07,
+        -0.5652217268943787,
+        1.0
+      ],
+      "name": "Cylinder.019"
+    },
+    {
+      "mesh": 86,
+      "name": "Cylinder.019_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        174,
+        175
+      ],
+      "matrix": [
+        0.1275909394025763,
+        2.795476154672002e-15,
+        3.1818353911572964e-08,
+        0.0,
+        3.2395650353673504e-15,
+        0.12759092450141676,
+        -2.4200388720752044e-08,
+        0.0,
+        -8.01482701221599e-09,
+        6.095914088352612e-09,
+        0.03213929012417636,
+        0.0,
+        -1.3520849506676313e-06,
+        -2.86102294921875e-06,
+        -0.6686572432518005,
+        1.0
+      ],
+      "name": "Cylinder.020"
+    },
+    {
+      "mesh": 87,
+      "name": "Cylinder.020_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "mesh": 88,
+      "name": "Cylinder.020_AstonMartinValkyrieWheel3_0"
+    },
+    {
+      "children": [
+        177
+      ],
+      "matrix": [
+        0.5712006688117803,
+        1.0457028301397218e-14,
+        1.4244477741527142e-07,
+        0.0,
+        2.111516987300661e-14,
+        0.5712006092071393,
+        -1.2660387005425378e-07,
+        0.0,
+        -3.588087329121211e-08,
+        3.1890659496597535e-08,
+        0.14388157427310144,
+        0.0,
+        -1.131332055592793e-06,
+        0.0,
+        0.1912274956703186,
+        1.0
+      ],
+      "name": "Cylinder.021"
+    },
+    {
+      "mesh": 89,
+      "name": "Cylinder.021_AstonMartinValkyrieWheel5_0"
+    },
+    {
+      "children": [
+        179
+      ],
+      "matrix": [
+        0.326326549053182,
+        5.163783626930871e-15,
+        8.137860332213863e-08,
+        0.0,
+        7.828318921198122e-15,
+        0.3263265192508656,
+        -5.209806586137235e-08,
+        0.0,
+        -2.049871884001274e-08,
+        1.3123151026628376e-08,
+        0.08219944685697195,
+        0.0,
+        -1.4854700793875963e-06,
+        9.5367431640625e-07,
+        0.02135568857192993,
+        1.0
+      ],
+      "name": "Cylinder.022"
+    },
+    {
+      "mesh": 90,
+      "name": "Cylinder.022_AstonMartinValkyrieWheel4_0"
+    },
+    {
+      "children": [
+        181
+      ],
+      "matrix": [
+        0.3297990262508379,
+        2.8831947651687032e-08,
+        -4.1516304396575104e-15,
+        -0.0,
+        -2.8831945046284622e-08,
+        0.3297989964485139,
+        3.231436157546951e-08,
+        -0.0,
+        -2.06923636553719e-14,
+        9.584275362478782e-08,
+        -0.9781670570373489,
+        -0.0,
+        0.000781853508669883,
+        -0.00022602081298828125,
+        -0.6953958868980408,
+        1.0
+      ],
+      "name": "Plane.029"
+    },
+    {
+      "mesh": 91,
+      "name": "Plane.029_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        183,
+        184,
+        186,
+        188,
+        190,
+        192,
+        194,
+        197,
+        199,
+        201
+      ],
+      "matrix": [
+        -6.598882293230961e-06,
+        -40.50365066528259,
+        -2.414205422214972e-06,
+        0.0,
+        -6.598881897511808e-06,
+        2.414206501449025e-06,
+        -40.50365066528259,
+        0.0,
+        17.150917053222198,
+        -2.7942388947484325e-06,
+        -2.794239062312251e-06,
+        0.0,
+        -89.77908325195313,
+        40.19225311279297,
+        -161.55442810058594,
+        1.0
+      ],
+      "name": "RearLeftWheel"
+    },
+    {
+      "mesh": 92,
+      "name": "RearLeftWheel_AstonMartinValkyrieTires_0"
+    },
+    {
+      "children": [
+        185
+      ],
+      "matrix": [
+        1.917724786449747e-08,
+        0.0,
+        0.2540103495120995,
+        0.0,
+        2.5731002588071606e-07,
+        0.3948394060134049,
+        -1.9426366521155533e-14,
+        0.0,
+        -0.39483940601340384,
+        2.573100258807168e-07,
+        2.980954583282019e-08,
+        0.0,
+        0.008964939042925835,
+        0.46865320205688477,
+        0.16512680053710938,
+        1.0
+      ],
+      "name": "Cube.004"
+    },
+    {
+      "mesh": 93,
+      "name": "Cube.004_AstonMartinValkyrieBrakes_0"
+    },
+    {
+      "children": [
+        187
+      ],
+      "matrix": [
+        0.2275077700614879,
+        5.256024094204158e-15,
+        4.783691805662813e-08,
+        0.0,
+        1.6449560298563177e-14,
+        0.2275077700614695,
+        -1.0322966661928623e-07,
+        0.0,
+        -4.783692118981804e-08,
+        1.0322967338055935e-07,
+        0.22750778496262566,
+        0.0,
+        -4.1922260152205126e-07,
+        4.76837158203125e-07,
+        -0.2964644432067871,
+        1.0
+      ],
+      "name": "Cylinder.023"
+    },
+    {
+      "mesh": 94,
+      "name": "Cylinder.023_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        189
+      ],
+      "matrix": [
+        0.9999999999999779,
+        2.3102613558955242e-14,
+        2.1026498586706873e-07,
+        0.0,
+        7.230329010271106e-14,
+        0.9999999999998971,
+        -4.53741279216021e-07,
+        0.0,
+        -2.1026501093259714e-07,
+        4.537413333062017e-07,
+        1.0000001192091645,
+        0.0,
+        4.0595989503344754e-07,
+        1.1920928955078125e-06,
+        -0.006103515625,
+        1.0
+      ],
+      "name": "Cylinder.024"
+    },
+    {
+      "mesh": 95,
+      "name": "Cylinder.024_AstonMartinValkyrieWheel1_0"
+    },
+    {
+      "children": [
+        191
+      ],
+      "matrix": [
+        0.19508957862853574,
+        4.507078487029831e-15,
+        4.102050472075269e-08,
+        0.0,
+        1.4105617799052114e-14,
+        0.19508957862851997,
+        -8.852019496862836e-08,
+        0.0,
+        -1.0332791749335304e-08,
+        2.2297647151053174e-08,
+        0.049141764640801965,
+        0.0,
+        1.2409221028519823e-07,
+        -7.152557373046875e-07,
+        -0.5114545822143555,
+        1.0
+      ],
+      "name": "Cylinder.025"
+    },
+    {
+      "mesh": 96,
+      "name": "Cylinder.025_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        193
+      ],
+      "matrix": [
+        0.17236481606959916,
+        3.982078617143423e-15,
+        3.6242285614854966e-08,
+        0.0,
+        1.2462544479589397e-14,
+        0.17236481606958523,
+        -7.820904193306138e-08,
+        0.0,
+        -9.129189884916899e-09,
+        1.970033573797961e-08,
+        0.043417546898121176,
+        0.0,
+        -1.1260760857112473e-07,
+        7.152557373046875e-07,
+        -0.565218448638916,
+        1.0
+      ],
+      "name": "Cylinder.026"
+    },
+    {
+      "mesh": 97,
+      "name": "Cylinder.026_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "children": [
+        195,
+        196
+      ],
+      "matrix": [
+        0.12759087979793265,
+        2.947682575872152e-15,
+        2.6827894537479773e-08,
+        0.0,
+        9.225240610236929e-15,
+        0.12759087979792236,
+        -5.789324901581282e-08,
+        0.0,
+        -6.757767383737536e-09,
+        1.4582922614039492e-08,
+        0.032139290124173915,
+        0.0,
+        -4.0732379602559377e-07,
+        9.5367431640625e-07,
+        -0.6686644554138184,
+        1.0
+      ],
+      "name": "Cylinder.027"
+    },
+    {
+      "mesh": 98,
+      "name": "Cylinder.027_AstonMartinValkyrieWheel2_0"
+    },
+    {
+      "mesh": 99,
+      "name": "Cylinder.027_AstonMartinValkyrieWheel3_0"
+    },
+    {
+      "children": [
+        198
+      ],
+      "matrix": [
+        0.5712004303932063,
+        1.3196221846833782e-14,
+        1.2010344230664746e-07,
+        0.0,
+        4.129966770363422e-14,
+        0.5712004303931602,
+        -2.591772139753607e-07,
+        0.0,
+        -3.0253252003192964e-08,
+        6.528500280502436e-08,
+        0.14388155937193026,
+        0.0,
+        -1.9639517745417834e-07,
+        -4.440892098500626e-16,
+        0.19123268127441406,
+        1.0
+      ],
+      "name": "Cylinder.028"
+    },
+    {
+      "mesh": 100,
+      "name": "Cylinder.028_AstonMartinValkyrieWheel5_0"
+    },
+    {
+      "children": [
+        200
+      ],
+      "matrix": [
+        0.3263263702392506,
+        7.538991471706103e-15,
+        6.861500498903272e-08,
+        0.0,
+        2.3594470615588318e-14,
+        0.32632637023922423,
+        -1.480677539490351e-07,
+        0.0,
+        -1.7283662796941393e-08,
+        3.7297281123346486e-08,
+        0.08219943940638469,
+        0.0,
+        1.0705831243740249e-07,
+        4.76837158203125e-07,
+        0.021371841430664063,
+        1.0
+      ],
+      "name": "Cylinder.029"
+    },
+    {
+      "mesh": 101,
+      "name": "Cylinder.029_AstonMartinValkyrieWheel4_0"
+    },
+    {
+      "children": [
+        202
+      ],
+      "matrix": [
+        0.3297988474369037,
+        -2.8831932019275834e-08,
+        -1.177440252171345e-15,
+        -0.0,
+        2.8831932019275765e-08,
+        0.32979884743690124,
+        4.01490981189892e-08,
+        -0.0,
+        6.9180954722435955e-15,
+        1.1908023045531171e-07,
+        -0.9781669974327014,
+        -0.0,
+        0.0007826793589629233,
+        -0.00022554397583007813,
+        -0.6953797340393066,
+        1.0
+      ],
+      "name": "Plane.031"
+    },
+    {
+      "mesh": 102,
+      "name": "Plane.031_AstonMartinValkyrieWheel1_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
