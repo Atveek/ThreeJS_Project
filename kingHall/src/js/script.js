@@ -1,11 +1,12 @@
 import * as THREE from "three";
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
-import { FirstPersonControls } from "three/examples/jsm/controls/FirstPersonControls.js";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
-import { RGBELoader } from "three/examples/jsm/loaders/RGBELoader.js";
+import { FirstPersonControls } from "three/examples/jsm/controls/FirstPersonControls.js";
+import gsap from "gsap";
 
-const renderer = new THREE.WebGLRenderer();
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+
 renderer.setSize(window.innerWidth, window.innerHeight);
+
 document.body.appendChild(renderer.domElement);
 
 const scene = new THREE.Scene();
@@ -16,31 +17,98 @@ const camera = new THREE.PerspectiveCamera(
   0.1,
   1000
 );
+
+renderer.setClearColor(0xa3a3a3);
+
+// const controls = new FirstPersonControls( camera, renderer.domElement );
+// controls.movementSpeed = 8;
+// controls.lookSpeed = 0.08;
+
 camera.position.set(-1.7, 0, 8.7);
 camera.lookAt(1.7, 0, 8.7);
 
-const gltfLoader = new GLTFLoader();
-const rgbeLoader = new RGBELoader();
+const loadingManager = new THREE.LoadingManager();
 
-rgbeLoader.load(
-  "./assets/MR_INT-006_LoftIndustrialWindow_Griffintown.hdr",
-  function (texture) {
-    texture.mapping = THREE.EquirectangularReflectionMapping;
-    scene.background = texture;
+const progressBar = document.getElementById("progress-bar");
+
+loadingManager.onProgress = function (url, loaded, total) {
+  progressBar.value = (loaded / total) * 100;
+};
+
+const progressBarContainer = document.querySelector(".progress-bar-container");
+
+loadingManager.onLoad = function () {
+  progressBarContainer.style.display = "none";
+};
+
+const gltfLoader = new GLTFLoader(loadingManager);
+
+renderer.outputEncoding = THREE.sRGBEncoding;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+
+let position = 0;
+
+gltfLoader.load("./assets/the_King_Hall/scene.gltf", function (gltf) {
+  const model = gltf.scene;
+  scene.add(model);
+
+  window.addEventListener("mouseup", function () {
+    switch (position) {
+      case 0:
+        moveCamera(-1.8, 1.6, 5);
+        rotateCamera(0, 0.1, 0);
+        position = 1;
+        break;
+      case 1:
+        moveCamera(2.8, 0, 3.6);
+        rotateCamera(0, -2, 0);
+        position = 2;
+        break;
+      case 2:
+        moveCamera(2.5, -0.9, 12.2);
+        rotateCamera(0.9, 0.6, -0.6);
+        position = 3;
+        break;
+      case 3:
+        moveCamera(-2.7, 0.6, 3.7);
+        rotateCamera(0.6, 1.9, -0.6);
+        position = 4;
+        break;
+      case 4:
+        moveCamera(-1.7, 0, 8.7);
+        rotateCamera(0, 4.7, 0);
+        position = 5;
+        break;
+      case 5:
+        moveCamera(0.5, 0.8, 10);
+        rotateCamera(0.3, 1.65, -0.3);
+        position = 0;
+    }
+  });
+
+  function moveCamera(x, y, z) {
+    gsap.to(camera.position, {
+      x,
+      y,
+      z,
+      duration: 3,
+    });
   }
-);
 
-// const orbit = new OrbitControls(camera, renderer.domElement);
-// orbit.update();
+  function rotateCamera(x, y, z) {
+    gsap.to(camera.rotation, {
+      x,
+      y,
+      z,
+      duration: 3.2,
+    });
+  }
+});
 
-const controls = new FirstPersonControls(camera, renderer.domElement);
-camera.movementSpeed = 80;
-camera.lookSpeed = 80;
-
-const clock = new THREE.Clock();
+//const clock = new THREE.Clock();
 function animate() {
   renderer.render(scene, camera);
-  controls.update(clock.getDelta());
+  //controls.update(clock.getDelta());
 }
 
 renderer.setAnimationLoop(animate);
