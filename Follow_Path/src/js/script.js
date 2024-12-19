@@ -1,6 +1,8 @@
 // Import necessary modules from Three.js and Yuka
 import * as THREE from "three";
 import * as YUKA from "yuka";
+import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
 //* Renderer and Scene Setup
 // Initializes the WebGL renderer, sets up the scene, and configures the camera.
@@ -15,23 +17,40 @@ const camera = new THREE.PerspectiveCamera(
   0.1,
   1000
 );
-camera.position.set(0, 20, 0);
+camera.position.set(0, 10, 15);
 camera.lookAt(scene.position);
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.update();
 renderer.setClearColor(0xa3a3a3);
+
+const ambientLight = new THREE.AmbientLight(0x333333, 0.5);
+scene.add(ambientLight);
+
+const directionLight = new THREE.DirectionalLight(0xffffff, 1);
+scene.add(directionLight);
+directionLight.position.set(0, 10, 15);
+
+const loader = new GLTFLoader();
 
 //* Vehicle Setup
 // Creates the visual (mesh) and logical (Yuka vehicle) components for the vehicle.
 // Links the Yuka vehicle logic to the Three.js mesh for synchronization.
-const vehicleGeo = new THREE.ConeGeometry(0.1, 0.5, 8);
-const vehicleMat = new THREE.MeshNormalMaterial();
-const vehicleMesh = new THREE.Mesh(vehicleGeo, vehicleMat);
-vehicleMesh.matrixAutoUpdate = false;
-scene.add(vehicleMesh);
-vehicleGeo.rotateX(Math.PI / 2);
+// const vehicleGeo = new THREE.ConeGeometry(0.1, 0.5, 8);
+// const vehicleMat = new THREE.MeshNormalMaterial();
+// const vehicleMesh = new THREE.Mesh(vehicleGeo, vehicleMat);
+// vehicleMesh.matrixAutoUpdate = false;
+// scene.add(vehicleMesh);
+// vehicleGeo.rotateX(Math.PI / 2);
 
 const vehicle = new YUKA.Vehicle();
-vehicle.setRenderComponent(vehicleMesh, sync);
 
+loader.load("./assets/SUV.glb", function (gltf) {
+  const model = gltf.scene;
+  model.matrixAutoUpdate = false;
+  scene.add(model);
+  vehicle.scale = new YUKA.Vector3(0.5, 0.5, 0.5);
+  vehicle.setRenderComponent(model, sync);
+});
 // Sync function ensures that the Three.js mesh follows the position and orientation of the Yuka vehicle.
 function sync(entity, renderComponent) {
   renderComponent.matrix.copy(entity.worldMatrix);
@@ -40,12 +59,12 @@ function sync(entity, renderComponent) {
 //* Path and Behaviors
 // Defines a closed path with waypoints for the vehicle to follow.
 const path = new YUKA.Path();
-path.add(new YUKA.Vector3(-4, 0, 4));
-path.add(new YUKA.Vector3(-6, 0, 0));
-path.add(new YUKA.Vector3(-4, 0, -4));
-path.add(new YUKA.Vector3(0, 0, -6));
-path.add(new YUKA.Vector3(4, 0, -4));
-path.add(new YUKA.Vector3(6, 0, 0));
+path.add(new YUKA.Vector3(-6, 0, 4));
+path.add(new YUKA.Vector3(-12, 0, 0));
+path.add(new YUKA.Vector3(-6, 0, -12));
+path.add(new YUKA.Vector3(0, 0, 0));
+path.add(new YUKA.Vector3(8, 0, -8));
+path.add(new YUKA.Vector3(10, 0, 0));
 path.add(new YUKA.Vector3(4, 0, 4));
 path.add(new YUKA.Vector3(0, 0, 6));
 path.loop = true; // Enables looping, so the vehicle continuously follows the path.
@@ -53,12 +72,12 @@ path.loop = true; // Enables looping, so the vehicle continuously follows the pa
 vehicle.position.copy(path.current()); // Starts the vehicle at the first waypoint.
 
 // Adds path-following and on-path behaviors to the vehicle.
-const followPathBehavior = new YUKA.FollowPathBehavior(path, 1);
+const followPathBehavior = new YUKA.FollowPathBehavior(path, 3);
 vehicle.steering.add(followPathBehavior);
-vehicle.maxSpeed = 1;
+vehicle.maxSpeed = 3;
 
 const onPathBehavior = new YUKA.OnPathBehavior(path);
-onPathBehavior.radius = 0.8;
+// onPathBehavior.radius = 0.8;
 vehicle.steering.add(onPathBehavior);
 
 //* Path Visualization
